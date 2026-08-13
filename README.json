@@ -1,0 +1,291 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Converters"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Browser extensions"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Publishing"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Other"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Vault templates"
+    },
+    {
+      "description": "by @Kmaasrud\n📁 collapsing-sidebar.css",
+      "items": [],
+      "title": "Collapsing Sidebar"
+    },
+    {
+      "description": "by @deathau\nRelationship lines that shows hierarchy, like in code editors.\n📁 bullet-point-relationship-lines.css",
+      "items": [],
+      "title": "Bullet Point Relationship Lines"
+    },
+    {
+      "description": "by @Rumen Dimitrov\nFades note's header controls and status bar items when not hovered.\n📁 autofading-ui.css",
+      "items": [],
+      "title": "Auto-fading UI"
+    },
+    {
+      "description": "by @Rumen Dimitrov\n\n📁 smaller-scrollbar.css",
+      "items": [],
+      "title": "Smaller Scrollbar"
+    },
+    {
+      "description": "by @Rumen Dimitrov\nIncreases the size of the folding gutter arrows and decreases their opacity until hovered.\n\n📁 subtler-folding-gutter-arrows.css",
+      "items": [],
+      "title": "Subtler Folding Gutter Arrows"
+    },
+    {
+      "description": "by @Boyd\nJustifies the whole text and breaks words into two lines if needed.\n\n📁 hyphenation-and-justification.css",
+      "items": [],
+      "title": "Hyphenation and Justification"
+    },
+    {
+      "description": "by @den\n\n📁 enlarge-image-on-hover.css",
+      "items": [],
+      "title": "Enlarge Image on Hover"
+    },
+    {
+      "description": "by @kepano & @rsdimitrov\nTo toggle a checkbox, place your cursor right after it, press left arrow once and then press backspace.\n\n📁 nicer-checkboxes.css",
+      "items": [],
+      "title": "Nicer Checkboxes"
+    },
+    {
+      "description": "by @Thery\n\n📁 stylish-blockquotes.css",
+      "items": [],
+      "title": "Stylish Block Quotes"
+    },
+    {
+      "description": "by @Cannibalox & @konhi\n\n📁 bigger-link-popup-preview.css",
+      "items": [],
+      "title": "Bigger Link Popup Preview"
+    },
+    {
+      "description": "by @deathau\nAdds custom icons for files and folders. Please read the comments in the file.\n\n📁 custom-icons-differing-files-and-folders.css\n📁 IcoMoon.io Free Version",
+      "items": [],
+      "title": "Custom Icons Differing Files and Folders"
+    },
+    {
+      "description": "by @ScottKillen\nAdds custom icons to specific folders.\n\n📁 custom-icons-for-specific-folders.css",
+      "items": [],
+      "title": "Custom Icons for Specific Folders"
+    },
+    {
+      "description": "by @uzerper\n\n📁 tag-pills.css",
+      "items": [],
+      "title": "Tag Pills"
+    },
+    {
+      "description": "by @ScottKillen\nAdds custom icons to specific tags in the frontmatter section. Compatible with Tag Pills and most themes, including minimal.\n\n📁 custom-icons-for-frontmatter-tags.css",
+      "items": [],
+      "title": "Custom Icons for Frontmatter Tags"
+    },
+    {
+      "description": "by @Shamama, @wonton & @konhi\n\n📁 outliner-for-the-outline-and-file-explorer.css",
+      "items": [],
+      "title": "Outliner For The Outline and File Explorer"
+    },
+    {
+      "description": "by @Piotr & @konhi\n\n📁 better-bullet-points-in-edit-mode.css",
+      "items": [],
+      "title": "Better Bullet Points in Edit Mode"
+    },
+    {
+      "description": "by @TClark1011\nGive your images a shadow and rounded corners.\n\n📁 image-cards.css",
+      "items": [],
+      "title": "Image Cards"
+    },
+    {
+      "description": "by @zremboldt\nAdd more meaning and visual interest to your documents by easily grouping sets of images, videos, or even audio tracks into grid layouts.\nIMPORTANT For information on requirements and how to use this snippet, see its original repo.\n\n📁 media-grid.css",
+      "items": [],
+      "title": "Media Grid"
+    },
+    {
+      "description": "📁 custom-folder-files-tree.css\nMost themes should be available through the => in Obsidian's settings. You can find more info at Obsidian Help/Add custom styles.",
+      "items": [],
+      "title": "Custom-folder-files-tree"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "obsidian-tools:",
+          "description": "an unofficial collection of tools that helps devs build plugins for obsidian.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-08T21:15:04Z",
+            "owner": "obsidian-tools",
+            "repo": "obsidian-tools",
+            "stars": 307
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "obsidian-daily-notes-interface:",
+          "description": "a collection of utility functions for working with dates and daily notes in Obsidian plugins.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-13T22:38:11Z",
+            "owner": "liamcain",
+            "repo": "obsidian-daily-notes-interface",
+            "stars": 109
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "obsidian-rust-plugin:",
+          "description": "boilerplate needed to write obsidian plugins in rust!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2021-03-20T15:16:53Z",
+            "owner": "trashhalo",
+            "repo": "obsidian-rust-plugin",
+            "stars": 108
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "obsidian-dev-tools:",
+          "description": "allows for a modified console (useful for debugging on mobile), and viewing all Obsidian icons/strings.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2021-08-21T05:08:25Z",
+            "owner": "KjellConnelly",
+            "repo": "obsidian-dev-tools",
+            "stars": 65
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "obsidian-plugin-template",
+          "description": "a plugin template customized with a nicer directory structure and some additional tool (like featuring automatic releases with Github's Actions).",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2022-01-10T10:56:08Z",
+            "owner": "THeK3nger",
+            "repo": "obsidian-plugin-template",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "obsidian-calendar-ui:",
+          "description": "provides an out-of-the-box calendar view for Obsidian plugins.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2023-09-17T14:12:45Z",
+            "owner": "liamcain",
+            "repo": "obsidian-calendar-ui",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "obsidian-vault-parser",
+          "description": "vault parser for the Obsidian note taking app.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-03-06T12:59:13Z",
+            "owner": "coffee-cup",
+            "repo": "obsidian-vault-parser",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "obsidian-api-docs:",
+          "description": "community-provided documentation of the Obsidian API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-08-26T08:05:19Z",
+            "owner": "HEmile",
+            "repo": "obsidian-api-docs",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "Obsidian at GitHub",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Obsidian Sample Plugin",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2026-08-02T15:56:53Z",
+                "owner": "obsidianmd",
+                "repo": "obsidian-sample-plugin",
+                "stars": 4460
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Obsidian API",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2026-07-14T14:31:59Z",
+                "owner": "obsidianmd",
+                "repo": "obsidian-api",
+                "stars": 2306
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "item",
+          "title": "#obsidian-md at GitHub",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "Creating Plugins"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:23:07.321Z",
+    "original_repository": "kmaasrud/awesome-obsidian",
+    "original_repository_sha": "f5e4b78deb96353254b4e446434f44d6e6ab5c48",
+    "enhanced_repository": "enhansome/enhansome-obsidian",
+    "enhanced_repository_description": null,
+    "title": "Awesome What is Obsidian? with stars"
+  }
+}
