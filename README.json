@@ -251,7 +251,7 @@
                 "last_commit": "2026-08-02T15:56:53Z",
                 "owner": "obsidianmd",
                 "repo": "obsidian-sample-plugin",
-                "stars": 4470
+                "stars": 4473
               }
             },
             {
@@ -265,7 +265,7 @@
                 "last_commit": "2026-07-14T14:31:59Z",
                 "owner": "obsidianmd",
                 "repo": "obsidian-api",
-                "stars": 2307
+                "stars": 2308
               }
             }
           ]
@@ -281,7 +281,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T23:32:38.567Z",
+    "last_updated": "2026-08-18T23:32:28.388Z",
     "original_repository": "kmaasrud/awesome-obsidian",
     "original_repository_sha": "f5e4b78deb96353254b4e446434f44d6e6ab5c48",
     "enhanced_repository": "enhansome/enhansome-obsidian",
