@@ -4,6 +4,1714 @@
       "description": null,
       "items": [
         {
+          "node_type": "item",
+          "title": "Obsidian Day Planner",
+          "description": "Plugin for day planning and managing pomodoro timers from a task list lynchjames",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 309622475,
+            "language": "TypeScript",
+            "last_commit": "2026-08-06T14:36:53Z",
+            "owner": "ivan-lednev",
+            "repo": "obsidian-day-planner",
+            "stars": 2697
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flashcards",
+          "description": "Simple and intuitive integration for Anki reuseman",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 316765950,
+            "language": "TypeScript",
+            "last_commit": "2023-10-08T14:15:52Z",
+            "owner": "reuseman",
+            "repo": "flashcards-obsidian",
+            "stars": 1081
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shell commands",
+          "description": "You can predefine system commands that you want to run frequently, and assign hotkeys for them. For example open external applications. Automatic execution is also supported. Jarkko Linnanvirta",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 398575626,
+            "language": "TypeScript",
+            "last_commit": "2025-01-01T12:06:57Z",
+            "owner": "Taitava",
+            "repo": "obsidian-shellcommands",
+            "stars": 524
+          }
+        }
+      ],
+      "title": "Plugins"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Notion to Obsidian converter",
+              "description": "Simple script to convert exported Notion notes to Obsidian. Conner Tennery",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 267440433,
+                "language": "JavaScript",
+                "last_commit": "2023-03-31T02:58:49Z",
+                "owner": "connertennery",
+                "repo": "Notion-to-Obsidian-Converter",
+                "stars": 1083
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Yarle - Yet Another Rope Ladder from Evernote",
+              "description": "Node.js app to convert exported Evernote notes to Markdown (Obsidian) Akos Balasko",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 151837779,
+                "language": "TypeScript",
+                "last_commit": "2026-03-31T19:44:02Z",
+                "owner": "akosbalasko",
+                "repo": "yarle",
+                "stars": 1794
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "keep-it-markdown",
+              "description": "Convert Google Keep notes dynamically to markdown for Obsidian and Notion using the unofficial Keep API. Don Sudduth",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 306197249,
+                "language": "Python",
+                "last_commit": "2026-08-23T16:55:42Z",
+                "owner": "djsudduth",
+                "repo": "keep-it-markdown",
+                "stars": 697
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gooseberry",
+              "description": "A command line utility to generate a knowledge base from Hypothesis annotations. out-of-cheese-error",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 268541463,
+                "language": "Rust",
+                "last_commit": "2024-10-26T11:11:12Z",
+                "owner": "out-of-cheese-error",
+                "repo": "gooseberry",
+                "stars": 174
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "BibleGateway to Obsidian",
+              "description": "Fetch the text from Bible Gateway and save it as formatted markdown file. Each chapter is saved as one file and navigation between files as well as a book-file is automatically created. All of the chapter files of a book are saved in its numbered folder. selfire1",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 334472255,
+                "language": "Shell",
+                "last_commit": "2024-06-18T20:49:31Z",
+                "owner": "selfire1",
+                "repo": "BibleGateway-to-Obsidian",
+                "stars": 299
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DayOne JSON to MD",
+              "description": "Simple app that converts jsons (packed with media files into zip) exports from Day One to Markdown. Kirill Kleymenov",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 308736248,
+                "language": "Python",
+                "last_commit": "2022-02-10T17:04:20Z",
+                "owner": "illkle",
+                "repo": "DayOne-JSON-to-MD",
+                "stars": 32
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Annotation tools",
+              "description": "connecting hypothesis and obsidian.md Nicolas Collignon",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 342402535,
+                "language": "Python",
+                "last_commit": "2021-08-16T12:42:51Z",
+                "owner": "collignon",
+                "repo": "annotation-tools",
+                "stars": 58
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "A thousand notes",
+              "description": "Scripts for cleaning, validating and maintaining the markdown notes exported from Evernote. Davide Della Casa",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 320087389,
+                "language": "Python",
+                "last_commit": "2022-09-02T21:53:13Z",
+                "owner": "davidedc",
+                "repo": "A-thousand-notes",
+                "stars": 39
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PKMigrator",
+              "description": "Tools to migrate between various Personal Knowledge Management Utilities, including Remnote, Obsidian, Roam and Org-roam. Anwesh Gangula",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 395067381,
+                "language": "Python",
+                "last_commit": "2023-02-16T05:46:44Z",
+                "owner": "AnweshGangula",
+                "repo": "PKMigrator",
+                "stars": 74
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Goodsidian",
+              "description": "Goodsidian takes updates to your shelves on Goodreads and formats them to a note in Obsidian. selfire1",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 363664344,
+                "language": "Shell",
+                "last_commit": "2021-10-30T21:15:05Z",
+                "owner": "selfire1",
+                "repo": "goodsidian",
+                "stars": 119
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Converters"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Markdownload",
+              "description": "A Firefox and Google Chrome extension to clip websites and download them into a readable markdown file. deathau",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 263312947,
+                "language": "JavaScript",
+                "last_commit": "2025-06-11T01:28:32Z",
+                "owner": "deathau",
+                "repo": "markdownload",
+                "stars": 4001
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Copy Selection as Markdown",
+              "description": "Firefox add-on to copy a selection or link as formatted Markdown 0x6b",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 114405401,
+                "language": "JavaScript",
+                "last_commit": "2026-08-12T09:59:36Z",
+                "owner": "0x6b",
+                "repo": "copy-selection-as-markdown",
+                "stars": 223
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Obsidian Clipper",
+              "description": "An unofficial Obsidian clipper for Chrome, that allows you to easily clip a selection to a note in Obsidian Joost Plattel",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 302166420,
+                "language": "JavaScript",
+                "last_commit": "2024-10-31T15:42:13Z",
+                "owner": "jplattel",
+                "repo": "obsidian-clipper",
+                "stars": 750
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Obsidian Bookmark",
+              "description": "A Chrome extension and nodejs server to allow web clipping to Obsidian. Liamballin",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 308538702,
+                "language": "JavaScript",
+                "last_commit": "2020-12-01T01:22:52Z",
+                "owner": "Liamballin",
+                "repo": "ObsidianBookmark",
+                "stars": 203
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Browser extensions"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "mdzk",
+              "description": "Zettelkasten system and command line static publishing tool. Aims at full support for Obsidian Markdown. mdzk-rs",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 385667964,
+                "language": "Rust",
+                "last_commit": "2026-08-24T01:10:14Z",
+                "owner": "mdzk-rs",
+                "repo": "mdzk",
+                "stars": 248
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "publish",
+              "description": "An open-source Obsidian Publish alternative obsidian-userland",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 335590352,
+                "language": "TypeScript",
+                "last_commit": "2024-03-15T19:15:30Z",
+                "owner": "obsidian-userland",
+                "repo": "publish",
+                "stars": 270
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "quartz",
+              "description": "Host your own second brain and digital garden jackyzha0",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 387213208,
+                "language": "TypeScript",
+                "last_commit": "2026-08-18T23:21:30Z",
+                "owner": "jackyzha0",
+                "repo": "quartz",
+                "stars": 13081
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "obyde",
+              "description": "A minimal tool to convert a \"standardly\" configured Obsidian vault to a Jekyll or Hugo blog. Khaled M. Nassar",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 335530232,
+                "language": "Python",
+                "last_commit": "2026-03-15T10:13:26Z",
+                "owner": "notkmhn",
+                "repo": "obyde",
+                "stars": 68
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "writeup-converter",
+              "description": "Script for grabbing markdown files and Obsidian attachments from one folder and copying them to another. Also contains a 'website formatter' that uses regex to parse markdown headers and links and reformat them to create Jekyll-friendly links and contents tables. Mac Goodwin",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 363622138,
+                "language": "Python",
+                "last_commit": "2021-09-21T21:27:27Z",
+                "owner": "Twigonometry",
+                "repo": "writeup-converter",
+                "stars": 29
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pelican-obsidian",
+              "description": "Makes it possible to bridge work in obsidian to pelican seamlessly. Jonathan Sundqvist",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 382600149,
+                "language": "Python",
+                "last_commit": "2024-12-30T07:45:23Z",
+                "owner": "jonathan-s",
+                "repo": "pelican-obsidian",
+                "stars": 45
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "yet-another-free-publish-alternative",
+              "description": "A Jekyll digital garden template, optimized for integration with Obsidian. It aims to enhance discoverability and help you build a personal knowledge base that can scale with time. Mara Li",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 401995791,
+                "language": "HTML",
+                "last_commit": "2021-12-30T11:15:24Z",
+                "owner": "Mara-Li",
+                "repo": "yet-another-free-publish-alternative",
+                "stars": 28
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Perlite",
+              "description": "A webbased markdown viewer optimized for Obsidian secure-77",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 371990032,
+                "language": "CSS",
+                "last_commit": "2026-01-21T23:35:21Z",
+                "owner": "secure-77",
+                "repo": "Perlite",
+                "stars": 1975
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Publishing"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Obsidian For Business",
+              "description": "A combination of a template vault with initial structure and some Microsoft Office VBA Macros to facilitate a powerful, extensible, and flexible plain text workflow using Microsoft Office and Obsidian For Business. Bryan Jenks",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 354635128,
+                "language": "JavaScript",
+                "last_commit": "2021-12-08T02:52:04Z",
+                "owner": "tallguyjenks",
+                "repo": "Obsidian-For-Business",
+                "stars": 161
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Sourcegraph knowledge bases extension",
+              "description": "Browse Markdown knowledge bases (e.g. Obsidian vaults or Foam repositories) in Sourcegraph. Robert Lin",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 382806205,
+                "language": "TypeScript",
+                "last_commit": "2023-02-27T00:27:24Z",
+                "owner": "bobheadxi",
+                "repo": "sourcegraph-knowledge-bases",
+                "stars": 26
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Obweb",
+              "description": "Web applcation to view and edit files in an Obsidian vault. Optimized for mobile devices. Yukang Chen",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 408270393,
+                "language": "JavaScript",
+                "last_commit": "2026-05-24T09:56:03Z",
+                "owner": "chenyukang",
+                "repo": "obweb",
+                "stars": 236
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Other"
+        }
+      ],
+      "title": "External Tools"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Obsidian Starter Templates",
+              "description": "Obsidian Starter Templates gathers examples from the Obsidian community. Its broader aims are to uncover and communicate how others use backlinks and various markdown tricks and why these techniques work. masonlr",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 268131398,
+                "language": "TeX",
+                "last_commit": "2021-04-03T09:40:30Z",
+                "owner": "masonlr",
+                "repo": "obsidian-starter-templates",
+                "stars": 1030
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Obsidian JG Method",
+              "description": "A starter kit that follows how to use Obsidian to manage goals, tasks, notes, and software development knowledge base. joshwingreene",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 287691590,
+                "language": "CSS",
+                "last_commit": "2020-08-17T01:06:31Z",
+                "owner": "joshwingreene",
+                "repo": "Obsidian-JG-Method",
+                "stars": 215
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Vault templates"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Obsidian Templates",
+              "description": "Few templates, such as admonitions, chess plays, clipboard and others Chetachi Ezikeuzor",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 362622141,
+                "language": null,
+                "last_commit": "2021-06-09T21:08:05Z",
+                "owner": "chetachiezikeuzor",
+                "repo": "Obsidian-Templates",
+                "stars": 95
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Template Showcase for Templater",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 310048170,
+                "language": "TypeScript",
+                "last_commit": "2026-08-05T05:45:24Z",
+                "owner": "SilentVoid13",
+                "repo": "Templater",
+                "stars": 5239
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Templates for Templater",
+              "description": "made by its community.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 310048170,
+                "language": "TypeScript",
+                "last_commit": "2026-08-05T05:45:24Z",
+                "owner": "SilentVoid13",
+                "repo": "Templater",
+                "stars": 5239
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Note templates"
+        }
+      ],
+      "title": "Templates"
+    },
+    {
+      "description": "Most themes should be available through the => in Obsidian's settings. You can find more info at Obsidian Help/Add custom styles.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "kognise/obsidian-atom",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 269567219,
+            "language": "CSS",
+            "last_commit": "2026-03-30T20:03:35Z",
+            "owner": "kognise",
+            "repo": "obsidian-atom",
+            "stars": 277
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cotemaxime/obsidian-amethyst",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 263229101,
+            "language": "CSS",
+            "last_commit": "2021-08-12T00:00:07Z",
+            "owner": "cotemaxime",
+            "repo": "obsidian-amethyst",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "insanum/obsidian_gruvbox",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 258607910,
+            "language": "CSS",
+            "last_commit": "2024-08-01T10:50:07Z",
+            "owner": "insanum",
+            "repo": "obsidian_gruvbox",
+            "stars": 199
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "insanum/obsidian_nord",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 263714279,
+            "language": "CSS",
+            "last_commit": "2024-06-10T15:14:15Z",
+            "owner": "insanum",
+            "repo": "obsidian_nord",
+            "stars": 306
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jarodise/Dracula-for-Obsidian.md",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 262602517,
+            "language": "CSS",
+            "last_commit": "2026-02-01T14:53:02Z",
+            "owner": "jarodise",
+            "repo": "Dracula-for-Obsidian.md",
+            "stars": 173
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "chad-bennett/warmth-obsidian-theme",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 265086569,
+            "language": "CSS",
+            "last_commit": "2021-08-20T18:03:42Z",
+            "owner": "chad-bennett",
+            "repo": "warmth-obsidian-theme",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dogwaddle/obsidian-gastown-theme.md",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 263695886,
+            "language": "CSS",
+            "last_commit": "2021-08-30T02:50:20Z",
+            "owner": "dogwaddle",
+            "repo": "obsidian-gastown-theme.md",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "deathau/80s-Neon-for-Obsidian.md",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 263190067,
+            "language": "CSS",
+            "last_commit": "2025-12-28T23:49:39Z",
+            "owner": "deathau",
+            "repo": "80s-Neon-for-Obsidian.md",
+            "stars": 156
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "deathau/Base2Tone-For-Obsidian.md",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 263237302,
+            "language": "CSS",
+            "last_commit": "2021-08-12T00:33:39Z",
+            "owner": "deathau",
+            "repo": "Base2Tone-For-Obsidian.md",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "deathau/Notation-for-Obsidian",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 267189798,
+            "language": "CSS",
+            "last_commit": "2020-12-12T18:35:26Z",
+            "owner": "deathau",
+            "repo": "Notation-for-Obsidian",
+            "stars": 216
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "deathau/obsidian-christmas-theme",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 269549728,
+            "language": "CSS",
+            "last_commit": "2020-10-28T05:35:19Z",
+            "owner": "deathau",
+            "repo": "obsidian-christmas-theme",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Slowbad/obsidian-solarized",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 264477396,
+            "language": "SCSS",
+            "last_commit": "2025-08-27T06:28:59Z",
+            "owner": "harmtemolder",
+            "repo": "obsidian-solarized",
+            "stars": 71
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "obsidian-ezs/obsidian-comfort-color-dark",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 263499165,
+            "language": "CSS",
+            "last_commit": "2021-07-16T03:36:45Z",
+            "owner": "obsidian-ezs",
+            "repo": "obsidian-comfort-color-dark",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "obsidian-ezs/obsidian-ursa",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 264342032,
+            "language": "CSS",
+            "last_commit": "2020-09-17T08:17:33Z",
+            "owner": "obsidian-ezs",
+            "repo": "obsidian-ursa",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nickmilo/Cybertron",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 269522725,
+            "language": "CSS",
+            "last_commit": "2025-06-18T00:25:36Z",
+            "owner": "nickmilo",
+            "repo": "Cybertron",
+            "stars": 132
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kartik-karz/moonlight-obsidian",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 266455158,
+            "language": "CSS",
+            "last_commit": "2021-03-16T17:34:00Z",
+            "owner": "kartik-karz",
+            "repo": "moonlight-obsidian",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "seanwcom/Red-Graphite-for-Obsidian",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 267758116,
+            "language": "SCSS",
+            "last_commit": "2024-11-03T19:14:15Z",
+            "owner": "seanwcom",
+            "repo": "Red-Graphite-for-Obsidian",
+            "stars": 226
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kartik-karz/subtlegold-obsidian",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 267863477,
+            "language": "CSS",
+            "last_commit": "2022-10-31T19:46:20Z",
+            "owner": "kartik-karz",
+            "repo": "subtlegold-obsidian",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sainadh-d/obsidian-boom",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 266321565,
+            "language": "CSS",
+            "last_commit": "2020-06-01T16:16:04Z",
+            "owner": "sainadhx",
+            "repo": "obsidian-boom",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pgalliford/Obsidian-theme-Incredible-Hulk",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 267971886,
+            "language": "CSS",
+            "last_commit": "2021-07-13T10:04:52Z",
+            "owner": "pgalliford",
+            "repo": "Obsidian-theme-Incredible-Hulk",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GuangluWu/obsidian-pisum",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 271130889,
+            "language": "CSS",
+            "last_commit": "2021-06-26T15:27:37Z",
+            "owner": "GuangluWu",
+            "repo": "obsidian-pisum",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "elliotboyd/obsidian-traffic-lights",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 273195029,
+            "language": "CSS",
+            "last_commit": "2020-06-18T20:13:18Z",
+            "owner": "elliotboyd",
+            "repo": "obsidian-traffic-lights",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mediapathic/obsidian-arsmagna-theme",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 276532439,
+            "language": "CSS",
+            "last_commit": "2021-03-18T01:13:38Z",
+            "owner": "mediapathic",
+            "repo": "obsidian-arsmagna-theme",
+            "stars": 60
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cannibalox/Obsdn-dark-rmx",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 273720835,
+            "language": "CSS",
+            "last_commit": "2020-09-22T21:38:04Z",
+            "owner": "cannibalox",
+            "repo": "Obsdn-dark-rmx",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kepano/obsidian-minimal",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 282550237,
+            "language": "CSS",
+            "last_commit": "2026-08-03T18:01:40Z",
+            "owner": "kepano",
+            "repo": "obsidian-minimal",
+            "stars": 5340
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rcvd/obsidian_ia",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 290117660,
+            "language": "CSS",
+            "last_commit": "2021-11-14T16:18:27Z",
+            "owner": "rcvd",
+            "repo": "obsidian_ia",
+            "stars": 119
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bcdavasconcelos/Obsidian-Charcoal",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 290487017,
+            "language": "CSS",
+            "last_commit": "2022-02-13T11:00:22Z",
+            "owner": "bcdavasconcelos",
+            "repo": "Obsidian-Charcoal",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bcdavasconcelos/Obsidian-Panic_Mode",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 290486466,
+            "language": "CSS",
+            "last_commit": "2022-02-13T11:00:55Z",
+            "owner": "bcdavasconcelos",
+            "repo": "Obsidian-Panic_Mode",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bcdavasconcelos/Obsidian-Graphite",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 290488316,
+            "language": "CSS",
+            "last_commit": "2022-02-13T11:01:54Z",
+            "owner": "bcdavasconcelos",
+            "repo": "Obsidian-Graphite",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bcdavasconcelos/Obsidian-Ayu",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 290488105,
+            "language": "CSS",
+            "last_commit": "2022-02-13T11:00:08Z",
+            "owner": "bcdavasconcelos",
+            "repo": "Obsidian-Ayu",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bcdavasconcelos/Obsidian-Ayu_Mirage",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 290488205,
+            "language": "CSS",
+            "last_commit": "2022-02-13T11:00:16Z",
+            "owner": "bcdavasconcelos",
+            "repo": "Obsidian-Ayu_Mirage",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bcdavasconcelos/Obsidian-GDCT",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 290488477,
+            "language": "CSS",
+            "last_commit": "2022-02-13T11:00:31Z",
+            "owner": "bcdavasconcelos",
+            "repo": "Obsidian-GDCT",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bcdavasconcelos/Obsidian-GDCT_Dark",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 290488614,
+            "language": "CSS",
+            "last_commit": "2022-02-13T11:00:38Z",
+            "owner": "bcdavasconcelos",
+            "repo": "Obsidian-GDCT_Dark",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DubininDmitry/Obuntu-theme-for-Obsidian",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 292918056,
+            "language": "CSS",
+            "last_commit": "2025-06-27T07:19:07Z",
+            "owner": "dmytrodubinin",
+            "repo": "Obuntu-theme-for-Obsidian",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cannibalox/ono-sendai_obsdn",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 292466565,
+            "language": "CSS",
+            "last_commit": "2024-06-20T14:46:36Z",
+            "owner": "cannibalox",
+            "repo": "ono-sendai_obsdn",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "whyt-byte/Blue-Topaz_Obsidian-css",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 300152130,
+            "language": "CSS",
+            "last_commit": "2026-08-15T10:48:47Z",
+            "owner": "PKM-er",
+            "repo": "Blue-Topaz_Obsidian-css",
+            "stars": 1617
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "santiyounger/Reverie-Obsidian-Theme",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 302398433,
+            "language": "CSS",
+            "last_commit": "2026-05-22T20:24:50Z",
+            "owner": "santiyounger",
+            "repo": "Reverie-Obsidian-Theme",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ryjjin/Obsidian-Dark-Graphite-Pie-theme",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 305079207,
+            "language": "CSS",
+            "last_commit": "2026-02-10T09:33:14Z",
+            "owner": "ryjjin",
+            "repo": "Obsidian-Dark-Graphite-Pie-theme",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bennyxguo/Obsidian-Obsidianite",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 308559808,
+            "language": "CSS",
+            "last_commit": "2024-02-26T17:42:12Z",
+            "owner": "bennyxguo",
+            "repo": "Obsidian-Obsidianite",
+            "stars": 375
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ishgunacar/gitsidian",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 309210939,
+            "language": "CSS",
+            "last_commit": "2020-11-02T03:34:46Z",
+            "owner": "ismailgunacar",
+            "repo": "gitsidian",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jamiebrynes7/clair-de-lune-obsidian-theme",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 305476188,
+            "language": "SCSS",
+            "last_commit": "2023-06-28T19:58:58Z",
+            "owner": "jamiebrynes7",
+            "repo": "clair-de-lune-obsidian-theme",
+            "stars": 89
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "manassadasivuni/obsidian-molecule",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 311038907,
+            "language": "CSS",
+            "last_commit": "2021-05-28T11:02:40Z",
+            "owner": "manassadasivuni",
+            "repo": "obsidian-molecule",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sparklau/comfort-smooth",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 315003809,
+            "language": "CSS",
+            "last_commit": "2020-11-23T10:02:23Z",
+            "owner": "sparklau",
+            "repo": "comfort-smooth",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dxcore35/Suddha-theme",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 315164659,
+            "language": "CSS",
+            "last_commit": "2021-04-27T08:26:47Z",
+            "owner": "dxcore35",
+            "repo": "Suddha-theme",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mgmeyers/obsidian-california-coast-theme",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 321181341,
+            "language": "CSS",
+            "last_commit": "2026-04-25T16:01:40Z",
+            "owner": "mgmeyers",
+            "repo": "obsidian-california-coast-theme",
+            "stars": 576
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "radekkozak/discordian",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 314210690,
+            "language": "CSS",
+            "last_commit": "2025-07-08T21:54:21Z",
+            "owner": "radekkozak",
+            "repo": "discordian",
+            "stars": 119
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "chad-bennett/al-dente-obsidian-theme",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 294717128,
+            "language": "CSS",
+            "last_commit": "2021-08-22T21:50:46Z",
+            "owner": "chad-bennett",
+            "repo": "al-dente-obsidian-theme",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "santiyounger/Wasp-Obsidian-Theme",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 306428083,
+            "language": "CSS",
+            "last_commit": "2026-05-22T20:20:57Z",
+            "owner": "santiyounger",
+            "repo": "Wasp-Obsidian-Theme",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "davidgolding/obsidian-big-sur-aesthetic",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 336072552,
+            "language": "CSS",
+            "last_commit": "2025-07-21T20:20:26Z",
+            "owner": "davidgolding",
+            "repo": "obsidian-big-sur-aesthetic",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lukauskas/obsidian-highlighter-theme",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 313227867,
+            "language": "CSS",
+            "last_commit": "2022-01-23T11:43:58Z",
+            "owner": "lukauskas",
+            "repo": "obsidian-highlighter-theme",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SlRvb/Obsidian--ITS-Theme",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 334402667,
+            "language": "SCSS",
+            "last_commit": "2026-08-17T20:23:41Z",
+            "owner": "SlRvb",
+            "repo": "Obsidian--ITS-Theme",
+            "stars": 767
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Braweria/Spectrum",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 336867888,
+            "language": "SCSS",
+            "last_commit": "2023-05-02T07:58:28Z",
+            "owner": "wiktoriavh",
+            "repo": "Spectrum",
+            "stars": 135
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hipstersmoothie/hipstersmoothie-obsidian-theme",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 340730147,
+            "language": "CSS",
+            "last_commit": "2022-11-21T01:27:36Z",
+            "owner": "hipstersmoothie",
+            "repo": "hipstersmoothie-obsidian-theme",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hungsu/vileplume-obsidian",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 347766406,
+            "language": "CSS",
+            "last_commit": "2023-10-24T04:49:07Z",
+            "owner": "hungsu",
+            "repo": "vileplume-obsidian",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "auroral-ui/aurora-obsidian-md",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 359761435,
+            "language": "CSS",
+            "last_commit": "2023-06-08T14:36:45Z",
+            "owner": "auroral-ui",
+            "repo": "aurora-obsidian-md",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "izumin5210/obsidian-iceberg",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 368556566,
+            "language": "CSS",
+            "last_commit": "2021-09-28T13:00:47Z",
+            "owner": "izumin5210",
+            "repo": "obsidian-iceberg",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bencodezen/obsidian-night-owl-theme",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 325347452,
+            "language": null,
+            "last_commit": "2024-01-18T01:28:33Z",
+            "owner": "bencodezen",
+            "repo": "obsidian-night-owl-theme",
+            "stars": 56
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "chetachiezikeuzor/Yin-and-Yang-Theme",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 361975238,
+            "language": "CSS",
+            "last_commit": "2023-04-12T17:43:30Z",
+            "owner": "chetachiezikeuzor",
+            "repo": "Yin-and-Yang-Theme",
+            "stars": 562
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "shaggyfeng/obsidian-Golden-Topaz-theme",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 368981495,
+            "language": "CSS",
+            "last_commit": "2021-06-08T18:21:58Z",
+            "owner": "shaggyfeng",
+            "repo": "obsidian-Golden-Topaz-theme",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "shaggyfeng/obsidian-Pink-topaz-theme",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 368757929,
+            "language": "CSS",
+            "last_commit": "2023-03-03T06:01:35Z",
+            "owner": "shaggyfeng",
+            "repo": "obsidian-Pink-topaz-theme",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eleanorkonik/-palatinate",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 333205108,
+            "language": "CSS",
+            "last_commit": "2021-11-24T02:18:22Z",
+            "owner": "eleanorkonik",
+            "repo": "-palatinate",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sergey900553/obsidian_githublike_theme",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 369257783,
+            "language": "CSS",
+            "last_commit": "2023-02-17T13:59:45Z",
+            "owner": "sergey900553",
+            "repo": "obsidian_githublike_theme",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wittionary/mammoth-obsidian-theme",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 310954623,
+            "language": "CSS",
+            "last_commit": "2022-10-27T06:24:49Z",
+            "owner": "Wittionary",
+            "repo": "mammoth-obsidian-theme",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "luke-rmaki/rmaki-obsidian",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 371023949,
+            "language": "CSS",
+            "last_commit": "2024-01-26T05:18:50Z",
+            "owner": "luke-rmaki",
+            "repo": "rmaki-obsidian",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ArtexJay/Obsidian-CyberGlow",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 326867159,
+            "language": "CSS",
+            "last_commit": "2026-08-23T01:38:28Z",
+            "owner": "ThePharaohArt",
+            "repo": "Obsidian-CyberGlow",
+            "stars": 122
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "johackim/obsidian-darkyan",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 384430084,
+            "language": "CSS",
+            "last_commit": "2026-03-27T10:49:53Z",
+            "owner": "johackim",
+            "repo": "obsidian-darkyan",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mrglitchbyte/obsidian_everforest",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 380633199,
+            "language": "CSS",
+            "last_commit": "2026-07-22T02:22:22Z",
+            "owner": "0xGlitchbyte",
+            "repo": "obsidian_everforest",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tylernguyen/obsidian-horizon",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 332843002,
+            "language": "SCSS",
+            "last_commit": "2022-01-01T22:24:24Z",
+            "owner": "tylernguyen",
+            "repo": "obsidian-horizon",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vanadium23/obsidian-blackbird-theme",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 390021031,
+            "language": "CSS",
+            "last_commit": "2021-11-04T09:46:55Z",
+            "owner": "vanadium23",
+            "repo": "obsidian-blackbird-theme",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chrismettal/Obsidian-Behave-dark",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 393682927,
+            "language": "CSS",
+            "last_commit": "2023-12-02T10:18:17Z",
+            "owner": "Chrismettal",
+            "repo": "Obsidian-Behave-dark",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SMUsamaShah/Obsidian-Win98-Edition",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 394417365,
+            "language": null,
+            "last_commit": "2026-07-29T21:21:31Z",
+            "owner": "SMUsamaShah",
+            "repo": "Obsidian-Win98-Edition",
+            "stars": 70
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dogwaddle/lizardmen-zettelkasten",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 271065232,
+            "language": "CSS",
+            "last_commit": "2022-10-23T13:57:51Z",
+            "owner": "dogwaddle",
+            "repo": "lizardmen-zettelkasten",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "firinael/obsidian-cidreira-coast-theme",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 358766863,
+            "language": "SCSS",
+            "last_commit": "2021-08-18T16:04:53Z",
+            "owner": "firinael",
+            "repo": "obsidian-cidreira-coast-theme",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "chrisgrieser/shimmering-focus",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 400614754,
+            "language": "CSS",
+            "last_commit": "2026-08-03T21:20:15Z",
+            "owner": "chrisgrieser",
+            "repo": "shimmering-focus",
+            "stars": 644
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "caro401/royal-velvet",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 458797648,
+            "language": "CSS",
+            "last_commit": "2026-03-30T06:44:20Z",
+            "owner": "caro401",
+            "repo": "royal-velvet",
+            "stars": 130
+          }
+        }
+      ],
+      "title": "Themes"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "obsidian-style-settings:",
+              "description": "allows snippet, theme, and plugin CSS files to define a set of configuration options. It then allows users to see all the tweakable settings in one settings pane.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 352429422,
+                "language": "TypeScript",
+                "last_commit": "2026-07-13T23:32:02Z",
+                "owner": "community-archive",
+                "repo": "obsidian-style-settings",
+                "stars": 2452
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Creating Themes"
+        },
+        {
           "children": [
             {
               "node_type": "item",
@@ -172,7 +1880,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T23:31:03.057Z",
+    "last_updated": "2026-08-24T13:51:07.211Z",
     "original_repository": "kmaasrud/awesome-obsidian",
     "original_repository_id": 263321845,
     "original_repository_sha": "f5e4b78deb96353254b4e446434f44d6e6ab5c48",
