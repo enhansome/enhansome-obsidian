@@ -83,7 +83,7 @@
                 "last_commit": "2026-03-31T19:44:02Z",
                 "owner": "akosbalasko",
                 "repo": "yarle",
-                "stars": 1794
+                "stars": 1795
               }
             },
             {
@@ -128,7 +128,7 @@
                 "last_commit": "2024-06-18T20:49:31Z",
                 "owner": "selfire1",
                 "repo": "BibleGateway-to-Obsidian",
-                "stars": 299
+                "stars": 300
               }
             },
             {
@@ -322,7 +322,7 @@
                 "last_commit": "2026-08-18T23:21:30Z",
                 "owner": "jackyzha0",
                 "repo": "quartz",
-                "stars": 13081
+                "stars": 13091
               }
             },
             {
@@ -529,7 +529,7 @@
                 "last_commit": "2026-08-05T05:45:24Z",
                 "owner": "SilentVoid13",
                 "repo": "Templater",
-                "stars": 5239
+                "stars": 5240
               }
             },
             {
@@ -544,7 +544,7 @@
                 "last_commit": "2026-08-05T05:45:24Z",
                 "owner": "SilentVoid13",
                 "repo": "Templater",
-                "stars": 5239
+                "stars": 5240
               }
             }
           ],
@@ -930,7 +930,7 @@
             "last_commit": "2026-08-03T18:01:40Z",
             "owner": "kepano",
             "repo": "obsidian-minimal",
-            "stars": 5340
+            "stars": 5342
           }
         },
         {
@@ -1703,7 +1703,7 @@
                 "last_commit": "2026-07-13T23:32:02Z",
                 "owner": "community-archive",
                 "repo": "obsidian-style-settings",
-                "stars": 2452
+                "stars": 2453
               }
             }
           ],
@@ -1880,7 +1880,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:51:07.211Z",
+    "last_updated": "2026-08-24T23:31:04.756Z",
     "original_repository": "kmaasrud/awesome-obsidian",
     "original_repository_id": 263321845,
     "original_repository_sha": "f5e4b78deb96353254b4e446434f44d6e6ab5c48",
