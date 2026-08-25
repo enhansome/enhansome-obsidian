@@ -529,7 +529,7 @@
                 "last_commit": "2026-08-05T05:45:24Z",
                 "owner": "SilentVoid13",
                 "repo": "Templater",
-                "stars": 5240
+                "stars": 5239
               }
             },
             {
@@ -544,7 +544,7 @@
                 "last_commit": "2026-08-05T05:45:24Z",
                 "owner": "SilentVoid13",
                 "repo": "Templater",
-                "stars": 5240
+                "stars": 5239
               }
             }
           ],
@@ -930,7 +930,7 @@
             "last_commit": "2026-08-03T18:01:40Z",
             "owner": "kepano",
             "repo": "obsidian-minimal",
-            "stars": 5342
+            "stars": 5341
           }
         },
         {
@@ -1865,7 +1865,7 @@
                     "last_commit": "2026-07-14T14:31:59Z",
                     "owner": "obsidianmd",
                     "repo": "obsidian-api",
-                    "stars": 2312
+                    "stars": 2313
                   }
                 }
               ]
@@ -1880,7 +1880,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T23:31:04.756Z",
+    "last_updated": "2026-08-25T05:48:06.291Z",
     "original_repository": "kmaasrud/awesome-obsidian",
     "original_repository_id": 263321845,
     "original_repository_sha": "f5e4b78deb96353254b4e446434f44d6e6ab5c48",
