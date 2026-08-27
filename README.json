@@ -322,7 +322,7 @@
                 "last_commit": "2026-08-18T23:21:30Z",
                 "owner": "jackyzha0",
                 "repo": "quartz",
-                "stars": 13106
+                "stars": 13111
               }
             },
             {
@@ -529,7 +529,7 @@
                 "last_commit": "2026-08-05T05:45:24Z",
                 "owner": "SilentVoid13",
                 "repo": "Templater",
-                "stars": 5243
+                "stars": 5244
               }
             },
             {
@@ -544,7 +544,7 @@
                 "last_commit": "2026-08-05T05:45:24Z",
                 "owner": "SilentVoid13",
                 "repo": "Templater",
-                "stars": 5243
+                "stars": 5244
               }
             }
           ],
@@ -615,7 +615,7 @@
             "last_commit": "2024-06-10T15:14:15Z",
             "owner": "insanum",
             "repo": "obsidian_nord",
-            "stars": 306
+            "stars": 307
           }
         },
         {
@@ -705,7 +705,7 @@
             "last_commit": "2020-12-12T18:35:26Z",
             "owner": "deathau",
             "repo": "Notation-for-Obsidian",
-            "stars": 216
+            "stars": 217
           }
         },
         {
@@ -1170,7 +1170,7 @@
             "last_commit": "2023-06-28T19:58:58Z",
             "owner": "jamiebrynes7",
             "repo": "clair-de-lune-obsidian-theme",
-            "stars": 89
+            "stars": 88
           }
         },
         {
@@ -1425,7 +1425,7 @@
             "last_commit": "2023-04-12T17:43:30Z",
             "owner": "chetachiezikeuzor",
             "repo": "Yin-and-Yang-Theme",
-            "stars": 562
+            "stars": 563
           }
         },
         {
@@ -1703,7 +1703,7 @@
                 "last_commit": "2026-07-13T23:32:02Z",
                 "owner": "community-archive",
                 "repo": "obsidian-style-settings",
-                "stars": 2455
+                "stars": 2456
               }
             }
           ],
@@ -1850,7 +1850,7 @@
                     "last_commit": "2026-08-02T15:56:53Z",
                     "owner": "obsidianmd",
                     "repo": "obsidian-sample-plugin",
-                    "stars": 4486
+                    "stars": 4485
                   }
                 },
                 {
@@ -1865,7 +1865,7 @@
                     "last_commit": "2026-07-14T14:31:59Z",
                     "owner": "obsidianmd",
                     "repo": "obsidian-api",
-                    "stars": 2315
+                    "stars": 2316
                   }
                 }
               ]
@@ -1880,9 +1880,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T04:29:13.314Z",
-    "original_repository": "kmaasrud/awesome-obsidian",
-    "original_repository_id": 263321845,
+    "last_updated": "2026-08-27T11:57:07.988Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 263321845,
+      "language": "CSS",
+      "last_commit": "2024-04-06T05:47:06Z",
+      "owner": "kmaasrud",
+      "repo": "awesome-obsidian",
+      "stars": 9280
+    },
     "original_repository_sha": "f5e4b78deb96353254b4e446434f44d6e6ab5c48",
     "enhanced_repository": "enhansome/enhansome-obsidian",
     "enhanced_repository_description": null,
