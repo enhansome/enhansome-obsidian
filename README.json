@@ -15,7 +15,7 @@
             "last_commit": "2026-08-06T14:36:53Z",
             "owner": "ivan-lednev",
             "repo": "obsidian-day-planner",
-            "stars": 2697
+            "stars": 2698
           }
         },
         {
@@ -83,7 +83,7 @@
                 "last_commit": "2026-03-31T19:44:02Z",
                 "owner": "akosbalasko",
                 "repo": "yarle",
-                "stars": 1795
+                "stars": 1796
               }
             },
             {
@@ -237,7 +237,7 @@
                 "archived": false,
                 "id": 114405401,
                 "language": "JavaScript",
-                "last_commit": "2026-08-12T09:59:36Z",
+                "last_commit": "2026-08-26T15:38:38Z",
                 "owner": "0x6b",
                 "repo": "copy-selection-as-markdown",
                 "stars": 223
@@ -322,7 +322,7 @@
                 "last_commit": "2026-08-18T23:21:30Z",
                 "owner": "jackyzha0",
                 "repo": "quartz",
-                "stars": 13099
+                "stars": 13106
               }
             },
             {
@@ -477,7 +477,7 @@
                 "last_commit": "2021-04-03T09:40:30Z",
                 "owner": "masonlr",
                 "repo": "obsidian-starter-templates",
-                "stars": 1030
+                "stars": 1032
               }
             },
             {
@@ -492,7 +492,7 @@
                 "last_commit": "2020-08-17T01:06:31Z",
                 "owner": "joshwingreene",
                 "repo": "Obsidian-JG-Method",
-                "stars": 215
+                "stars": 216
               }
             }
           ],
@@ -529,7 +529,7 @@
                 "last_commit": "2026-08-05T05:45:24Z",
                 "owner": "SilentVoid13",
                 "repo": "Templater",
-                "stars": 5241
+                "stars": 5243
               }
             },
             {
@@ -544,7 +544,7 @@
                 "last_commit": "2026-08-05T05:45:24Z",
                 "owner": "SilentVoid13",
                 "repo": "Templater",
-                "stars": 5241
+                "stars": 5243
               }
             }
           ],
@@ -930,7 +930,7 @@
             "last_commit": "2026-08-03T18:01:40Z",
             "owner": "kepano",
             "repo": "obsidian-minimal",
-            "stars": 5343
+            "stars": 5349
           }
         },
         {
@@ -1275,7 +1275,7 @@
             "last_commit": "2026-05-22T20:20:57Z",
             "owner": "santiyounger",
             "repo": "Wasp-Obsidian-Theme",
-            "stars": 64
+            "stars": 65
           }
         },
         {
@@ -1650,7 +1650,7 @@
             "last_commit": "2021-08-18T16:04:53Z",
             "owner": "firinael",
             "repo": "obsidian-cidreira-coast-theme",
-            "stars": 7
+            "stars": 8
           }
         },
         {
@@ -1703,7 +1703,7 @@
                 "last_commit": "2026-07-13T23:32:02Z",
                 "owner": "community-archive",
                 "repo": "obsidian-style-settings",
-                "stars": 2453
+                "stars": 2455
               }
             }
           ],
@@ -1865,7 +1865,7 @@
                     "last_commit": "2026-07-14T14:31:59Z",
                     "owner": "obsidianmd",
                     "repo": "obsidian-api",
-                    "stars": 2313
+                    "stars": 2315
                   }
                 }
               ]
@@ -1880,7 +1880,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T23:33:53.838Z",
+    "last_updated": "2026-08-27T04:29:13.314Z",
     "original_repository": "kmaasrud/awesome-obsidian",
     "original_repository_id": 263321845,
     "original_repository_sha": "f5e4b78deb96353254b4e446434f44d6e6ab5c48",
