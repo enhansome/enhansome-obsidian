@@ -15,8 +15,9 @@
             "last_commit": "2026-08-06T14:36:53Z",
             "owner": "ivan-lednev",
             "repo": "obsidian-day-planner",
-            "stars": 2698
-          }
+            "stars": 2700
+          },
+          "first_seen": "2026-08-28T06:53:30.936Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "reuseman",
             "repo": "flashcards-obsidian",
             "stars": 1081
-          }
+          },
+          "first_seen": "2026-08-28T06:53:30.936Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "Taitava",
             "repo": "obsidian-shellcommands",
             "stars": 524
-          }
+          },
+          "first_seen": "2026-08-28T06:53:30.936Z"
         }
       ],
       "title": "Plugins"
@@ -69,7 +72,8 @@
                 "owner": "connertennery",
                 "repo": "Notion-to-Obsidian-Converter",
                 "stars": 1083
-              }
+              },
+              "first_seen": "2026-08-28T06:53:30.936Z"
             },
             {
               "node_type": "item",
@@ -84,7 +88,8 @@
                 "owner": "akosbalasko",
                 "repo": "yarle",
                 "stars": 1796
-              }
+              },
+              "first_seen": "2026-08-28T06:53:30.936Z"
             },
             {
               "node_type": "item",
@@ -99,7 +104,8 @@
                 "owner": "djsudduth",
                 "repo": "keep-it-markdown",
                 "stars": 697
-              }
+              },
+              "first_seen": "2026-08-28T06:53:30.936Z"
             },
             {
               "node_type": "item",
@@ -114,7 +120,8 @@
                 "owner": "out-of-cheese-error",
                 "repo": "gooseberry",
                 "stars": 174
-              }
+              },
+              "first_seen": "2026-08-28T06:53:30.936Z"
             },
             {
               "node_type": "item",
@@ -129,7 +136,8 @@
                 "owner": "selfire1",
                 "repo": "BibleGateway-to-Obsidian",
                 "stars": 300
-              }
+              },
+              "first_seen": "2026-08-28T06:53:30.936Z"
             },
             {
               "node_type": "item",
@@ -144,7 +152,8 @@
                 "owner": "illkle",
                 "repo": "DayOne-JSON-to-MD",
                 "stars": 32
-              }
+              },
+              "first_seen": "2026-08-28T06:53:30.936Z"
             },
             {
               "node_type": "item",
@@ -159,7 +168,8 @@
                 "owner": "collignon",
                 "repo": "annotation-tools",
                 "stars": 58
-              }
+              },
+              "first_seen": "2026-08-28T06:53:30.936Z"
             },
             {
               "node_type": "item",
@@ -174,7 +184,8 @@
                 "owner": "davidedc",
                 "repo": "A-thousand-notes",
                 "stars": 39
-              }
+              },
+              "first_seen": "2026-08-28T06:53:30.936Z"
             },
             {
               "node_type": "item",
@@ -189,7 +200,8 @@
                 "owner": "AnweshGangula",
                 "repo": "PKMigrator",
                 "stars": 74
-              }
+              },
+              "first_seen": "2026-08-28T06:53:30.936Z"
             },
             {
               "node_type": "item",
@@ -204,7 +216,8 @@
                 "owner": "selfire1",
                 "repo": "goodsidian",
                 "stars": 119
-              }
+              },
+              "first_seen": "2026-08-28T06:53:30.936Z"
             }
           ],
           "description": null,
@@ -226,7 +239,8 @@
                 "owner": "deathau",
                 "repo": "markdownload",
                 "stars": 4002
-              }
+              },
+              "first_seen": "2026-08-28T06:53:30.936Z"
             },
             {
               "node_type": "item",
@@ -241,7 +255,8 @@
                 "owner": "0x6b",
                 "repo": "copy-selection-as-markdown",
                 "stars": 223
-              }
+              },
+              "first_seen": "2026-08-28T06:53:30.936Z"
             },
             {
               "node_type": "item",
@@ -256,7 +271,8 @@
                 "owner": "jplattel",
                 "repo": "obsidian-clipper",
                 "stars": 750
-              }
+              },
+              "first_seen": "2026-08-28T06:53:30.936Z"
             },
             {
               "node_type": "item",
@@ -270,8 +286,9 @@
                 "last_commit": "2020-12-01T01:22:52Z",
                 "owner": "Liamballin",
                 "repo": "ObsidianBookmark",
-                "stars": 203
-              }
+                "stars": 202
+              },
+              "first_seen": "2026-08-28T06:53:30.936Z"
             }
           ],
           "description": null,
@@ -293,7 +310,8 @@
                 "owner": "mdzk-rs",
                 "repo": "mdzk",
                 "stars": 248
-              }
+              },
+              "first_seen": "2026-08-28T06:53:30.936Z"
             },
             {
               "node_type": "item",
@@ -308,7 +326,8 @@
                 "owner": "obsidian-userland",
                 "repo": "publish",
                 "stars": 270
-              }
+              },
+              "first_seen": "2026-08-28T06:53:30.936Z"
             },
             {
               "node_type": "item",
@@ -322,8 +341,9 @@
                 "last_commit": "2026-08-18T23:21:30Z",
                 "owner": "jackyzha0",
                 "repo": "quartz",
-                "stars": 13111
-              }
+                "stars": 13117
+              },
+              "first_seen": "2026-08-28T06:53:30.936Z"
             },
             {
               "node_type": "item",
@@ -338,7 +358,8 @@
                 "owner": "notkmhn",
                 "repo": "obyde",
                 "stars": 68
-              }
+              },
+              "first_seen": "2026-08-28T06:53:30.936Z"
             },
             {
               "node_type": "item",
@@ -353,7 +374,8 @@
                 "owner": "Twigonometry",
                 "repo": "writeup-converter",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T06:53:30.936Z"
             },
             {
               "node_type": "item",
@@ -368,7 +390,8 @@
                 "owner": "jonathan-s",
                 "repo": "pelican-obsidian",
                 "stars": 45
-              }
+              },
+              "first_seen": "2026-08-28T06:53:30.936Z"
             },
             {
               "node_type": "item",
@@ -383,7 +406,8 @@
                 "owner": "Mara-Li",
                 "repo": "yet-another-free-publish-alternative",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-28T06:53:30.936Z"
             },
             {
               "node_type": "item",
@@ -398,7 +422,8 @@
                 "owner": "secure-77",
                 "repo": "Perlite",
                 "stars": 1975
-              }
+              },
+              "first_seen": "2026-08-28T06:53:30.936Z"
             }
           ],
           "description": null,
@@ -420,7 +445,8 @@
                 "owner": "tallguyjenks",
                 "repo": "Obsidian-For-Business",
                 "stars": 161
-              }
+              },
+              "first_seen": "2026-08-28T06:53:30.936Z"
             },
             {
               "node_type": "item",
@@ -435,7 +461,8 @@
                 "owner": "bobheadxi",
                 "repo": "sourcegraph-knowledge-bases",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-28T06:53:30.936Z"
             },
             {
               "node_type": "item",
@@ -450,7 +477,8 @@
                 "owner": "chenyukang",
                 "repo": "obweb",
                 "stars": 236
-              }
+              },
+              "first_seen": "2026-08-28T06:53:30.936Z"
             }
           ],
           "description": null,
@@ -478,7 +506,8 @@
                 "owner": "masonlr",
                 "repo": "obsidian-starter-templates",
                 "stars": 1032
-              }
+              },
+              "first_seen": "2026-08-28T06:53:30.936Z"
             },
             {
               "node_type": "item",
@@ -493,7 +522,8 @@
                 "owner": "joshwingreene",
                 "repo": "Obsidian-JG-Method",
                 "stars": 216
-              }
+              },
+              "first_seen": "2026-08-28T06:53:30.936Z"
             }
           ],
           "description": null,
@@ -515,7 +545,8 @@
                 "owner": "chetachiezikeuzor",
                 "repo": "Obsidian-Templates",
                 "stars": 95
-              }
+              },
+              "first_seen": "2026-08-28T06:53:30.936Z"
             },
             {
               "node_type": "item",
@@ -529,8 +560,9 @@
                 "last_commit": "2026-08-05T05:45:24Z",
                 "owner": "SilentVoid13",
                 "repo": "Templater",
-                "stars": 5244
-              }
+                "stars": 5245
+              },
+              "first_seen": "2026-08-28T06:53:30.936Z"
             },
             {
               "node_type": "item",
@@ -544,8 +576,9 @@
                 "last_commit": "2026-08-05T05:45:24Z",
                 "owner": "SilentVoid13",
                 "repo": "Templater",
-                "stars": 5244
-              }
+                "stars": 5245
+              },
+              "first_seen": "2026-08-28T06:53:30.936Z"
             }
           ],
           "description": null,
@@ -571,7 +604,8 @@
             "owner": "kognise",
             "repo": "obsidian-atom",
             "stars": 277
-          }
+          },
+          "first_seen": "2026-08-28T06:53:30.936Z"
         },
         {
           "node_type": "item",
@@ -586,7 +620,8 @@
             "owner": "cotemaxime",
             "repo": "obsidian-amethyst",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T06:53:30.936Z"
         },
         {
           "node_type": "item",
@@ -601,7 +636,8 @@
             "owner": "insanum",
             "repo": "obsidian_gruvbox",
             "stars": 199
-          }
+          },
+          "first_seen": "2026-08-28T06:53:30.936Z"
         },
         {
           "node_type": "item",
@@ -616,7 +652,8 @@
             "owner": "insanum",
             "repo": "obsidian_nord",
             "stars": 307
-          }
+          },
+          "first_seen": "2026-08-28T06:53:30.936Z"
         },
         {
           "node_type": "item",
@@ -631,7 +668,8 @@
             "owner": "jarodise",
             "repo": "Dracula-for-Obsidian.md",
             "stars": 173
-          }
+          },
+          "first_seen": "2026-08-28T06:53:30.936Z"
         },
         {
           "node_type": "item",
@@ -646,7 +684,8 @@
             "owner": "chad-bennett",
             "repo": "warmth-obsidian-theme",
             "stars": 38
-          }
+          },
+          "first_seen": "2026-08-28T06:53:30.936Z"
         },
         {
           "node_type": "item",
@@ -661,7 +700,8 @@
             "owner": "dogwaddle",
             "repo": "obsidian-gastown-theme.md",
             "stars": 34
-          }
+          },
+          "first_seen": "2026-08-28T06:53:30.936Z"
         },
         {
           "node_type": "item",
@@ -676,7 +716,8 @@
             "owner": "deathau",
             "repo": "80s-Neon-for-Obsidian.md",
             "stars": 156
-          }
+          },
+          "first_seen": "2026-08-28T06:53:30.936Z"
         },
         {
           "node_type": "item",
@@ -691,7 +732,8 @@
             "owner": "deathau",
             "repo": "Base2Tone-For-Obsidian.md",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T06:53:30.936Z"
         },
         {
           "node_type": "item",
@@ -706,7 +748,8 @@
             "owner": "deathau",
             "repo": "Notation-for-Obsidian",
             "stars": 217
-          }
+          },
+          "first_seen": "2026-08-28T06:53:30.936Z"
         },
         {
           "node_type": "item",
@@ -721,7 +764,8 @@
             "owner": "deathau",
             "repo": "obsidian-christmas-theme",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T06:53:30.936Z"
         },
         {
           "node_type": "item",
@@ -736,7 +780,8 @@
             "owner": "harmtemolder",
             "repo": "obsidian-solarized",
             "stars": 71
-          }
+          },
+          "first_seen": "2026-08-28T06:53:30.936Z"
         },
         {
           "node_type": "item",
@@ -751,7 +796,8 @@
             "owner": "obsidian-ezs",
             "repo": "obsidian-comfort-color-dark",
             "stars": 30
-          }
+          },
+          "first_seen": "2026-08-28T06:53:30.936Z"
         },
         {
           "node_type": "item",
@@ -766,7 +812,8 @@
             "owner": "obsidian-ezs",
             "repo": "obsidian-ursa",
             "stars": 38
-          }
+          },
+          "first_seen": "2026-08-28T06:53:30.936Z"
         },
         {
           "node_type": "item",
@@ -781,7 +828,8 @@
             "owner": "nickmilo",
             "repo": "Cybertron",
             "stars": 132
-          }
+          },
+          "first_seen": "2026-08-28T06:53:30.936Z"
         },
         {
           "node_type": "item",
@@ -796,7 +844,8 @@
             "owner": "kartik-karz",
             "repo": "moonlight-obsidian",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T06:53:30.936Z"
         },
         {
           "node_type": "item",
@@ -811,7 +860,8 @@
             "owner": "seanwcom",
             "repo": "Red-Graphite-for-Obsidian",
             "stars": 226
-          }
+          },
+          "first_seen": "2026-08-28T06:53:30.936Z"
         },
         {
           "node_type": "item",
@@ -826,7 +876,8 @@
             "owner": "kartik-karz",
             "repo": "subtlegold-obsidian",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-28T06:53:30.936Z"
         },
         {
           "node_type": "item",
@@ -841,7 +892,8 @@
             "owner": "sainadhx",
             "repo": "obsidian-boom",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T06:53:30.936Z"
         },
         {
           "node_type": "item",
@@ -856,7 +908,8 @@
             "owner": "pgalliford",
             "repo": "Obsidian-theme-Incredible-Hulk",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T06:53:30.936Z"
         },
         {
           "node_type": "item",
@@ -871,7 +924,8 @@
             "owner": "GuangluWu",
             "repo": "obsidian-pisum",
             "stars": 45
-          }
+          },
+          "first_seen": "2026-08-28T06:53:30.936Z"
         },
         {
           "node_type": "item",
@@ -886,7 +940,8 @@
             "owner": "elliotboyd",
             "repo": "obsidian-traffic-lights",
             "stars": 50
-          }
+          },
+          "first_seen": "2026-08-28T06:53:30.936Z"
         },
         {
           "node_type": "item",
@@ -901,7 +956,8 @@
             "owner": "mediapathic",
             "repo": "obsidian-arsmagna-theme",
             "stars": 60
-          }
+          },
+          "first_seen": "2026-08-28T06:53:30.936Z"
         },
         {
           "node_type": "item",
@@ -916,7 +972,8 @@
             "owner": "cannibalox",
             "repo": "Obsdn-dark-rmx",
             "stars": 38
-          }
+          },
+          "first_seen": "2026-08-28T06:53:30.936Z"
         },
         {
           "node_type": "item",
@@ -930,8 +987,9 @@
             "last_commit": "2026-08-03T18:01:40Z",
             "owner": "kepano",
             "repo": "obsidian-minimal",
-            "stars": 5349
-          }
+            "stars": 5352
+          },
+          "first_seen": "2026-08-28T06:53:30.936Z"
         },
         {
           "node_type": "item",
@@ -946,7 +1004,8 @@
             "owner": "rcvd",
             "repo": "obsidian_ia",
             "stars": 119
-          }
+          },
+          "first_seen": "2026-08-28T06:53:30.936Z"
         },
         {
           "node_type": "item",
@@ -961,7 +1020,8 @@
             "owner": "bcdavasconcelos",
             "repo": "Obsidian-Charcoal",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T06:53:30.936Z"
         },
         {
           "node_type": "item",
@@ -976,7 +1036,8 @@
             "owner": "bcdavasconcelos",
             "repo": "Obsidian-Panic_Mode",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T06:53:30.936Z"
         },
         {
           "node_type": "item",
@@ -991,7 +1052,8 @@
             "owner": "bcdavasconcelos",
             "repo": "Obsidian-Graphite",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T06:53:30.936Z"
         },
         {
           "node_type": "item",
@@ -1006,7 +1068,8 @@
             "owner": "bcdavasconcelos",
             "repo": "Obsidian-Ayu",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T06:53:30.936Z"
         },
         {
           "node_type": "item",
@@ -1021,7 +1084,8 @@
             "owner": "bcdavasconcelos",
             "repo": "Obsidian-Ayu_Mirage",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T06:53:30.936Z"
         },
         {
           "node_type": "item",
@@ -1036,7 +1100,8 @@
             "owner": "bcdavasconcelos",
             "repo": "Obsidian-GDCT",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T06:53:30.936Z"
         },
         {
           "node_type": "item",
@@ -1051,7 +1116,8 @@
             "owner": "bcdavasconcelos",
             "repo": "Obsidian-GDCT_Dark",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T06:53:30.936Z"
         },
         {
           "node_type": "item",
@@ -1066,7 +1132,8 @@
             "owner": "dmytrodubinin",
             "repo": "Obuntu-theme-for-Obsidian",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-28T06:53:30.936Z"
         },
         {
           "node_type": "item",
@@ -1081,7 +1148,8 @@
             "owner": "cannibalox",
             "repo": "ono-sendai_obsdn",
             "stars": 54
-          }
+          },
+          "first_seen": "2026-08-28T06:53:30.936Z"
         },
         {
           "node_type": "item",
@@ -1095,8 +1163,9 @@
             "last_commit": "2026-08-15T10:48:47Z",
             "owner": "PKM-er",
             "repo": "Blue-Topaz_Obsidian-css",
-            "stars": 1620
-          }
+            "stars": 1619
+          },
+          "first_seen": "2026-08-28T06:53:30.936Z"
         },
         {
           "node_type": "item",
@@ -1111,7 +1180,8 @@
             "owner": "santiyounger",
             "repo": "Reverie-Obsidian-Theme",
             "stars": 30
-          }
+          },
+          "first_seen": "2026-08-28T06:53:30.936Z"
         },
         {
           "node_type": "item",
@@ -1126,7 +1196,8 @@
             "owner": "ryjjin",
             "repo": "Obsidian-Dark-Graphite-Pie-theme",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T06:53:30.936Z"
         },
         {
           "node_type": "item",
@@ -1140,8 +1211,9 @@
             "last_commit": "2024-02-26T17:42:12Z",
             "owner": "bennyxguo",
             "repo": "Obsidian-Obsidianite",
-            "stars": 375
-          }
+            "stars": 376
+          },
+          "first_seen": "2026-08-28T06:53:30.936Z"
         },
         {
           "node_type": "item",
@@ -1156,7 +1228,8 @@
             "owner": "ismailgunacar",
             "repo": "gitsidian",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T06:53:30.936Z"
         },
         {
           "node_type": "item",
@@ -1171,7 +1244,8 @@
             "owner": "jamiebrynes7",
             "repo": "clair-de-lune-obsidian-theme",
             "stars": 88
-          }
+          },
+          "first_seen": "2026-08-28T06:53:30.936Z"
         },
         {
           "node_type": "item",
@@ -1186,7 +1260,8 @@
             "owner": "manassadasivuni",
             "repo": "obsidian-molecule",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-28T06:53:30.936Z"
         },
         {
           "node_type": "item",
@@ -1201,7 +1276,8 @@
             "owner": "sparklau",
             "repo": "comfort-smooth",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T06:53:30.936Z"
         },
         {
           "node_type": "item",
@@ -1216,7 +1292,8 @@
             "owner": "dxcore35",
             "repo": "Suddha-theme",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T06:53:30.936Z"
         },
         {
           "node_type": "item",
@@ -1231,7 +1308,8 @@
             "owner": "mgmeyers",
             "repo": "obsidian-california-coast-theme",
             "stars": 576
-          }
+          },
+          "first_seen": "2026-08-28T06:53:30.936Z"
         },
         {
           "node_type": "item",
@@ -1246,7 +1324,8 @@
             "owner": "radekkozak",
             "repo": "discordian",
             "stars": 119
-          }
+          },
+          "first_seen": "2026-08-28T06:53:30.936Z"
         },
         {
           "node_type": "item",
@@ -1261,7 +1340,8 @@
             "owner": "chad-bennett",
             "repo": "al-dente-obsidian-theme",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T06:53:30.936Z"
         },
         {
           "node_type": "item",
@@ -1276,7 +1356,8 @@
             "owner": "santiyounger",
             "repo": "Wasp-Obsidian-Theme",
             "stars": 65
-          }
+          },
+          "first_seen": "2026-08-28T06:53:30.936Z"
         },
         {
           "node_type": "item",
@@ -1291,7 +1372,8 @@
             "owner": "davidgolding",
             "repo": "obsidian-big-sur-aesthetic",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T06:53:30.936Z"
         },
         {
           "node_type": "item",
@@ -1306,7 +1388,8 @@
             "owner": "lukauskas",
             "repo": "obsidian-highlighter-theme",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T06:53:30.936Z"
         },
         {
           "node_type": "item",
@@ -1321,7 +1404,8 @@
             "owner": "SlRvb",
             "repo": "Obsidian--ITS-Theme",
             "stars": 767
-          }
+          },
+          "first_seen": "2026-08-28T06:53:30.936Z"
         },
         {
           "node_type": "item",
@@ -1336,7 +1420,8 @@
             "owner": "wiktoriavh",
             "repo": "Spectrum",
             "stars": 135
-          }
+          },
+          "first_seen": "2026-08-28T06:53:30.936Z"
         },
         {
           "node_type": "item",
@@ -1351,7 +1436,8 @@
             "owner": "hipstersmoothie",
             "repo": "hipstersmoothie-obsidian-theme",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T06:53:30.936Z"
         },
         {
           "node_type": "item",
@@ -1366,7 +1452,8 @@
             "owner": "hungsu",
             "repo": "vileplume-obsidian",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T06:53:30.936Z"
         },
         {
           "node_type": "item",
@@ -1381,7 +1468,8 @@
             "owner": "auroral-ui",
             "repo": "aurora-obsidian-md",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-28T06:53:30.936Z"
         },
         {
           "node_type": "item",
@@ -1396,7 +1484,8 @@
             "owner": "izumin5210",
             "repo": "obsidian-iceberg",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T06:53:30.936Z"
         },
         {
           "node_type": "item",
@@ -1411,7 +1500,8 @@
             "owner": "bencodezen",
             "repo": "obsidian-night-owl-theme",
             "stars": 56
-          }
+          },
+          "first_seen": "2026-08-28T06:53:30.936Z"
         },
         {
           "node_type": "item",
@@ -1425,8 +1515,9 @@
             "last_commit": "2023-04-12T17:43:30Z",
             "owner": "chetachiezikeuzor",
             "repo": "Yin-and-Yang-Theme",
-            "stars": 563
-          }
+            "stars": 562
+          },
+          "first_seen": "2026-08-28T06:53:30.936Z"
         },
         {
           "node_type": "item",
@@ -1441,7 +1532,8 @@
             "owner": "shaggyfeng",
             "repo": "obsidian-Golden-Topaz-theme",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-28T06:53:30.936Z"
         },
         {
           "node_type": "item",
@@ -1456,7 +1548,8 @@
             "owner": "shaggyfeng",
             "repo": "obsidian-Pink-topaz-theme",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-28T06:53:30.936Z"
         },
         {
           "node_type": "item",
@@ -1471,7 +1564,8 @@
             "owner": "eleanorkonik",
             "repo": "-palatinate",
             "stars": 48
-          }
+          },
+          "first_seen": "2026-08-28T06:53:30.936Z"
         },
         {
           "node_type": "item",
@@ -1486,7 +1580,8 @@
             "owner": "sergey900553",
             "repo": "obsidian_githublike_theme",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T06:53:30.936Z"
         },
         {
           "node_type": "item",
@@ -1501,7 +1596,8 @@
             "owner": "Wittionary",
             "repo": "mammoth-obsidian-theme",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T06:53:30.936Z"
         },
         {
           "node_type": "item",
@@ -1516,7 +1612,8 @@
             "owner": "luke-rmaki",
             "repo": "rmaki-obsidian",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T06:53:30.936Z"
         },
         {
           "node_type": "item",
@@ -1531,7 +1628,8 @@
             "owner": "ThePharaohArt",
             "repo": "Obsidian-CyberGlow",
             "stars": 122
-          }
+          },
+          "first_seen": "2026-08-28T06:53:30.936Z"
         },
         {
           "node_type": "item",
@@ -1546,7 +1644,8 @@
             "owner": "johackim",
             "repo": "obsidian-darkyan",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T06:53:30.936Z"
         },
         {
           "node_type": "item",
@@ -1561,7 +1660,8 @@
             "owner": "0xGlitchbyte",
             "repo": "obsidian_everforest",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T06:53:30.936Z"
         },
         {
           "node_type": "item",
@@ -1576,7 +1676,8 @@
             "owner": "tylernguyen",
             "repo": "obsidian-horizon",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-28T06:53:30.936Z"
         },
         {
           "node_type": "item",
@@ -1591,7 +1692,8 @@
             "owner": "vanadium23",
             "repo": "obsidian-blackbird-theme",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T06:53:30.936Z"
         },
         {
           "node_type": "item",
@@ -1606,7 +1708,8 @@
             "owner": "Chrismettal",
             "repo": "Obsidian-Behave-dark",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T06:53:30.936Z"
         },
         {
           "node_type": "item",
@@ -1621,7 +1724,8 @@
             "owner": "SMUsamaShah",
             "repo": "Obsidian-Win98-Edition",
             "stars": 70
-          }
+          },
+          "first_seen": "2026-08-28T06:53:30.936Z"
         },
         {
           "node_type": "item",
@@ -1636,7 +1740,8 @@
             "owner": "dogwaddle",
             "repo": "lizardmen-zettelkasten",
             "stars": 34
-          }
+          },
+          "first_seen": "2026-08-28T06:53:30.936Z"
         },
         {
           "node_type": "item",
@@ -1651,7 +1756,8 @@
             "owner": "firinael",
             "repo": "obsidian-cidreira-coast-theme",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T06:53:30.936Z"
         },
         {
           "node_type": "item",
@@ -1665,8 +1771,9 @@
             "last_commit": "2026-08-03T21:20:15Z",
             "owner": "chrisgrieser",
             "repo": "shimmering-focus",
-            "stars": 644
-          }
+            "stars": 645
+          },
+          "first_seen": "2026-08-28T06:53:30.936Z"
         },
         {
           "node_type": "item",
@@ -1681,7 +1788,8 @@
             "owner": "caro401",
             "repo": "royal-velvet",
             "stars": 130
-          }
+          },
+          "first_seen": "2026-08-28T06:53:30.936Z"
         }
       ],
       "title": "Themes"
@@ -1703,8 +1811,9 @@
                 "last_commit": "2026-07-13T23:32:02Z",
                 "owner": "community-archive",
                 "repo": "obsidian-style-settings",
-                "stars": 2456
-              }
+                "stars": 2458
+              },
+              "first_seen": "2026-08-28T06:53:30.936Z"
             }
           ],
           "description": null,
@@ -1726,7 +1835,8 @@
                 "owner": "obsidian-tools",
                 "repo": "obsidian-tools",
                 "stars": 308
-              }
+              },
+              "first_seen": "2026-08-28T06:53:30.936Z"
             },
             {
               "node_type": "item",
@@ -1741,7 +1851,8 @@
                 "owner": "liamcain",
                 "repo": "obsidian-daily-notes-interface",
                 "stars": 109
-              }
+              },
+              "first_seen": "2026-08-28T06:53:30.936Z"
             },
             {
               "node_type": "item",
@@ -1756,7 +1867,8 @@
                 "owner": "trashhalo",
                 "repo": "obsidian-rust-plugin",
                 "stars": 108
-              }
+              },
+              "first_seen": "2026-08-28T06:53:30.936Z"
             },
             {
               "node_type": "item",
@@ -1771,7 +1883,8 @@
                 "owner": "KjellConnelly",
                 "repo": "obsidian-dev-tools",
                 "stars": 65
-              }
+              },
+              "first_seen": "2026-08-28T06:53:30.936Z"
             },
             {
               "node_type": "item",
@@ -1786,7 +1899,8 @@
                 "owner": "THeK3nger",
                 "repo": "obsidian-plugin-template",
                 "stars": 39
-              }
+              },
+              "first_seen": "2026-08-28T06:53:30.936Z"
             },
             {
               "node_type": "item",
@@ -1801,7 +1915,8 @@
                 "owner": "liamcain",
                 "repo": "obsidian-calendar-ui",
                 "stars": 38
-              }
+              },
+              "first_seen": "2026-08-28T06:53:30.936Z"
             },
             {
               "node_type": "item",
@@ -1816,7 +1931,8 @@
                 "owner": "coffee-cup",
                 "repo": "obsidian-vault-parser",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-28T06:53:30.936Z"
             },
             {
               "node_type": "item",
@@ -1831,7 +1947,8 @@
                 "owner": "HEmile",
                 "repo": "obsidian-api-docs",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T06:53:30.936Z"
             },
             {
               "node_type": "group",
@@ -1850,8 +1967,9 @@
                     "last_commit": "2026-08-02T15:56:53Z",
                     "owner": "obsidianmd",
                     "repo": "obsidian-sample-plugin",
-                    "stars": 4485
-                  }
+                    "stars": 4489
+                  },
+                  "first_seen": "2026-08-28T06:53:30.936Z"
                 },
                 {
                   "node_type": "item",
@@ -1866,7 +1984,8 @@
                     "owner": "obsidianmd",
                     "repo": "obsidian-api",
                     "stars": 2316
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:53:30.936Z"
                 }
               ]
             }
@@ -1880,7 +1999,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:57:07.988Z",
+    "last_updated": "2026-08-28T06:53:30.936Z",
     "original_repository_info": {
       "archived": false,
       "id": 263321845,
@@ -1888,7 +2007,7 @@
       "last_commit": "2024-04-06T05:47:06Z",
       "owner": "kmaasrud",
       "repo": "awesome-obsidian",
-      "stars": 9280
+      "stars": 9285
     },
     "original_repository_sha": "f5e4b78deb96353254b4e446434f44d6e6ab5c48",
     "enhanced_repository": "enhansome/enhansome-obsidian",
