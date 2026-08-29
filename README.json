@@ -556,7 +556,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-08-18T23:21:30Z",
-                "open_issues": 67,
+                "open_issues": 66,
                 "owner": "jackyzha0",
                 "repo": "quartz",
                 "stars": 13124,
@@ -2961,7 +2961,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:07:25.407Z",
+    "last_updated": "2026-08-29T04:20:28.838Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶️ Awesome stuff for Obsidian",
