@@ -10,12 +10,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Obsidian plugin for day planning with a clean UI and a simple task format",
+            "homepage": null,
             "id": 309622475,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-06T14:36:53Z",
+            "open_issues": 161,
             "owner": "ivan-lednev",
             "repo": "obsidian-day-planner",
-            "stars": 2700
+            "stars": 2700,
+            "topics": [
+              "obsidian-plugin"
+            ]
           },
           "first_seen": "2026-08-28T06:53:30.936Z"
         },
@@ -26,12 +33,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🎴 An Anki plugin for Obsidian.md",
+            "homepage": null,
             "id": 316765950,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-10-08T14:15:52Z",
+            "open_issues": 112,
             "owner": "reuseman",
             "repo": "flashcards-obsidian",
-            "stars": 1081
+            "stars": 1081,
+            "topics": [
+              "anki",
+              "flashcards",
+              "markdown",
+              "obsidian",
+              "obsidian-plugin"
+            ]
           },
           "first_seen": "2026-08-28T06:53:30.936Z"
         },
@@ -42,12 +60,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Execute system commands via hotkeys or command palette in Obsidian (https://obsidian.md). Some automated events are also supported, and execution via URI links.",
+            "homepage": null,
             "id": 398575626,
             "language": "TypeScript",
+            "license": "GPL-3.0",
             "last_commit": "2025-01-01T12:06:57Z",
+            "open_issues": 18,
             "owner": "Taitava",
             "repo": "obsidian-shellcommands",
-            "stars": 524
+            "stars": 523,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:53:30.936Z"
         }
@@ -66,12 +89,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Converts exported Notion notes to work with Obsidian.",
+                "homepage": null,
                 "id": 267440433,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-03-31T02:58:49Z",
+                "open_issues": 4,
                 "owner": "connertennery",
                 "repo": "Notion-to-Obsidian-Converter",
-                "stars": 1083
+                "stars": 1083,
+                "topics": [
+                  "markdown-converter",
+                  "notion",
+                  "obsidian",
+                  "obsidian-md"
+                ]
               },
               "first_seen": "2026-08-28T06:53:30.936Z"
             },
@@ -82,12 +115,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Yarle - The ultimate converter of Evernote notes to Markdown",
+                "homepage": "https://github.com/akosbalasko/yarle",
                 "id": 151837779,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-03-31T19:44:02Z",
+                "open_issues": 85,
                 "owner": "akosbalasko",
                 "repo": "yarle",
-                "stars": 1796
+                "stars": 1796,
+                "topics": [
+                  "converter",
+                  "desktop-application",
+                  "electron-app",
+                  "enex",
+                  "enex-files",
+                  "evernote",
+                  "evernote-enex",
+                  "evernote-export",
+                  "evernote-markup-language",
+                  "evernote-to-logseq",
+                  "logseq",
+                  "markdown",
+                  "markdown-converter",
+                  "metadata",
+                  "note-taking",
+                  "obsidian",
+                  "obsidian-md",
+                  "ultimate-converter",
+                  "zero-install",
+                  "zettelkasten"
+                ]
               },
               "first_seen": "2026-08-28T06:53:30.936Z"
             },
@@ -98,12 +157,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Export and convert Google Keep notes dynamically to markdown for Obsidian, Apple Notes, Logseq, Joplin and Notion using the unofficial Keep API. Also, import simple markdown notes back into Google Keep.",
+                "homepage": null,
                 "id": 306197249,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-23T16:55:42Z",
+                "open_issues": 8,
                 "owner": "djsudduth",
                 "repo": "keep-it-markdown",
-                "stars": 697
+                "stars": 698,
+                "topics": [
+                  "apple-notes",
+                  "applenotes",
+                  "export-keep",
+                  "google-keep",
+                  "googlekeep",
+                  "joplin",
+                  "keep",
+                  "keep-to-markdown",
+                  "logseq",
+                  "markdown",
+                  "markdown-converter",
+                  "note-taking",
+                  "notion",
+                  "obsidian",
+                  "obsidian-md",
+                  "typora",
+                  "zettelkasten",
+                  "zettlekasten"
+                ]
               },
               "first_seen": "2026-08-28T06:53:30.936Z"
             },
@@ -114,12 +197,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A command line utility to generate a knowledge base from Hypothesis annotations",
+                "homepage": null,
                 "id": 268541463,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2024-10-26T11:11:12Z",
+                "open_issues": 16,
                 "owner": "out-of-cheese-error",
                 "repo": "gooseberry",
-                "stars": 174
+                "stars": 174,
+                "topics": [
+                  "command-line",
+                  "hypothesis",
+                  "hypothesis-annotations",
+                  "knowledge-base",
+                  "mdbook",
+                  "obsidian-md",
+                  "wiki"
+                ]
               },
               "first_seen": "2026-08-28T06:53:30.936Z"
             },
@@ -130,12 +226,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This script adapts jgclark's BibleGateway-to-Markdown script to export for use in Obsidian.",
+                "homepage": null,
                 "id": 334472255,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2024-06-18T20:49:31Z",
+                "open_issues": 8,
                 "owner": "selfire1",
                 "repo": "BibleGateway-to-Obsidian",
-                "stars": 300
+                "stars": 300,
+                "topics": [
+                  "bible-gateway",
+                  "markdown",
+                  "obsidian-md"
+                ]
               },
               "first_seen": "2026-08-28T06:53:30.936Z"
             },
@@ -146,12 +251,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "day one jsons to markdown converter | I'm not supporting it, check forks for better versions",
+                "homepage": null,
                 "id": 308736248,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-02-10T17:04:20Z",
+                "open_issues": 1,
                 "owner": "illkle",
                 "repo": "DayOne-JSON-to-MD",
-                "stars": 32
+                "stars": 32,
+                "topics": [
+                  "dayone",
+                  "markdown",
+                  "obsidian",
+                  "obsidian-md"
+                ]
               },
               "first_seen": "2026-08-28T06:53:30.936Z"
             },
@@ -162,12 +277,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "python tools to link hypothesis and pinboard annotations to obsidian.",
+                "homepage": null,
                 "id": 342402535,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-08-16T12:42:51Z",
+                "open_issues": 0,
                 "owner": "collignon",
                 "repo": "annotation-tools",
-                "stars": 58
+                "stars": 58,
+                "topics": [
+                  "hypothesis",
+                  "obsidian-md",
+                  "pinboard"
+                ]
               },
               "first_seen": "2026-08-28T06:53:30.936Z"
             },
@@ -178,12 +302,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "In Jan 2021 I moved around 29k notes from Evernote to markdown. These are the scripts I used to clean-up, validate, maintain the markdown notes.",
+                "homepage": null,
                 "id": 320087389,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-09-02T21:53:13Z",
+                "open_issues": 0,
                 "owner": "davidedc",
                 "repo": "A-thousand-notes",
-                "stars": 39
+                "stars": 39,
+                "topics": [
+                  "evernote",
+                  "markdown",
+                  "obsidian-md"
+                ]
               },
               "first_seen": "2026-08-28T06:53:30.936Z"
             },
@@ -194,12 +327,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tools to migrate between various Personal Knowledge Management Utilities",
+                "homepage": null,
                 "id": 395067381,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-02-16T05:46:44Z",
+                "open_issues": 8,
                 "owner": "AnweshGangula",
                 "repo": "PKMigrator",
-                "stars": 74
+                "stars": 74,
+                "topics": [
+                  "emacs",
+                  "obsidian-md",
+                  "org-mode",
+                  "org-roam",
+                  "pkm",
+                  "remnote",
+                  "roamresearch"
+                ]
               },
               "first_seen": "2026-08-28T06:53:30.936Z"
             },
@@ -210,12 +356,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Goodreads to Obsidian script",
+                "homepage": null,
                 "id": 363664344,
                 "language": "Shell",
+                "license": null,
                 "last_commit": "2021-10-30T21:15:05Z",
+                "open_issues": 2,
                 "owner": "selfire1",
                 "repo": "goodsidian",
-                "stars": 119
+                "stars": 119,
+                "topics": [
+                  "goodreads",
+                  "obsidian-md"
+                ]
               },
               "first_seen": "2026-08-28T06:53:30.936Z"
             }
@@ -233,12 +387,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Firefox and Google Chrome extension to clip websites and download them into a readable markdown file.",
+                "homepage": null,
                 "id": 263312947,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2025-06-11T01:28:32Z",
+                "open_issues": 216,
                 "owner": "deathau",
                 "repo": "markdownload",
-                "stars": 4002
+                "stars": 4003,
+                "topics": [
+                  "chrome-extension",
+                  "edge-extension",
+                  "firefox-addon",
+                  "firefox-extension",
+                  "firefox-webextension",
+                  "safari-extension",
+                  "web-clipper"
+                ]
               },
               "first_seen": "2026-08-28T06:53:30.936Z"
             },
@@ -249,12 +416,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Firefox add-on to copy selection as Markdown",
+                "homepage": "https://addons.mozilla.org/en-US/firefox/addon/copy-selection-as-markdown/",
                 "id": 114405401,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-26T15:38:38Z",
+                "open_issues": 16,
                 "owner": "0x6b",
                 "repo": "copy-selection-as-markdown",
-                "stars": 223
+                "stars": 223,
+                "topics": [
+                  "firefox-addon",
+                  "html-to-markdown",
+                  "markdown"
+                ]
               },
               "first_seen": "2026-08-28T06:53:30.936Z"
             },
@@ -265,12 +441,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A Chrome extension that easily clips selections to Obsidian",
+                "homepage": "https://jplattel.github.io/obsidian-clipper/",
                 "id": 302166420,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2024-10-31T15:42:13Z",
+                "open_issues": 42,
                 "owner": "jplattel",
                 "repo": "obsidian-clipper",
-                "stars": 750
+                "stars": 750,
+                "topics": [
+                  "chrome",
+                  "clipper",
+                  "extension",
+                  "obsidian",
+                  "obsidian-md"
+                ]
               },
               "first_seen": "2026-08-28T06:53:30.936Z"
             },
@@ -281,12 +468,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Chrome extension and nodejs server to allow web clipping to Obsidian.",
+                "homepage": null,
                 "id": 308538702,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2020-12-01T01:22:52Z",
+                "open_issues": 2,
                 "owner": "Liamballin",
                 "repo": "ObsidianBookmark",
-                "stars": 202
+                "stars": 202,
+                "topics": [
+                  "extension-chrome",
+                  "nodejs-server",
+                  "obsidian-md",
+                  "obsidian-plugin"
+                ]
               },
               "first_seen": "2026-08-28T06:53:30.936Z"
             }
@@ -304,12 +501,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "General-purpose interface to connected notes",
+                "homepage": "https://mdzk.app",
                 "id": 385667964,
                 "language": "Rust",
+                "license": "MPL-2.0",
                 "last_commit": "2026-08-24T01:10:14Z",
+                "open_issues": 10,
                 "owner": "mdzk-rs",
                 "repo": "mdzk",
-                "stars": 248
+                "stars": 248,
+                "topics": [
+                  "markdown",
+                  "rust",
+                  "zettelkasten"
+                ]
               },
               "first_seen": "2026-08-28T06:53:30.936Z"
             },
@@ -320,12 +526,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open source Obsidian Publish alternative",
+                "homepage": "https://obsidian-userland.github.io/publish",
                 "id": 335590352,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2024-03-15T19:15:30Z",
+                "open_issues": 4,
                 "owner": "obsidian-userland",
                 "repo": "publish",
-                "stars": 270
+                "stars": 270,
+                "topics": [
+                  "obsidian",
+                  "obsidian-md"
+                ]
               },
               "first_seen": "2026-08-28T06:53:30.936Z"
             },
@@ -336,12 +550,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites",
+                "homepage": "https://quartz.jzhao.xyz",
                 "id": 387213208,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-18T23:21:30Z",
+                "open_issues": 67,
                 "owner": "jackyzha0",
                 "repo": "quartz",
-                "stars": 13117
+                "stars": 13124,
+                "topics": [
+                  "digital-garden",
+                  "networked-thought",
+                  "obsidian",
+                  "obsidian-md",
+                  "quartz-ssg",
+                  "static-site-generator"
+                ]
               },
               "first_seen": "2026-08-28T06:53:30.936Z"
             },
@@ -352,12 +578,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A minimal tool to convert a \"standardly\" configured Obsidian vault to a Jekyll or Hugo blog.",
+                "homepage": null,
                 "id": 335530232,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-03-15T10:13:26Z",
+                "open_issues": 0,
                 "owner": "notkmhn",
                 "repo": "obyde",
-                "stars": 68
+                "stars": 68,
+                "topics": [
+                  "hugo",
+                  "hugo-blog",
+                  "jekyll",
+                  "jekyll-blog",
+                  "obsidian",
+                  "obsidian-md",
+                  "obsidian-vault"
+                ]
               },
               "first_seen": "2026-08-28T06:53:30.936Z"
             },
@@ -368,12 +607,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Script for grabbing markdown files and Obsidian attachments from one folder and copying them to another.",
+                "homepage": null,
                 "id": 363622138,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-09-21T21:27:27Z",
+                "open_issues": 18,
                 "owner": "Twigonometry",
                 "repo": "writeup-converter",
-                "stars": 29
+                "stars": 29,
+                "topics": [
+                  "obsidian",
+                  "obsidian-md",
+                  "obsidian-vault",
+                  "productivity",
+                  "python3"
+                ]
               },
               "first_seen": "2026-08-28T06:53:30.936Z"
             },
@@ -384,12 +634,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Makes it possible to bridge work in obsidian to pelican seamlessly",
+                "homepage": null,
                 "id": 382600149,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-12-30T07:45:23Z",
+                "open_issues": 2,
                 "owner": "jonathan-s",
                 "repo": "pelican-obsidian",
-                "stars": 45
+                "stars": 45,
+                "topics": [
+                  "obsidian",
+                  "obsidian-md",
+                  "pelican-plugin",
+                  "pelican-plugins"
+                ]
               },
               "first_seen": "2026-08-28T06:53:30.936Z"
             },
@@ -400,12 +660,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A Jekyll digital garden template, optimized for integration with Obsidian. It aims to enhance discoverability and help you build a personal knowledge base that can scale with time.",
+                "homepage": "https://owlly-house.netlify.app/",
                 "id": 401995791,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2021-12-30T11:15:24Z",
+                "open_issues": 0,
                 "owner": "Mara-Li",
                 "repo": "yet-another-free-publish-alternative",
-                "stars": 28
+                "stars": 28,
+                "topics": [
+                  "blog",
+                  "obsidian",
+                  "publish",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T06:53:30.936Z"
             },
@@ -416,12 +686,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A web-based markdown viewer optimized for Obsidian",
+                "homepage": "https://perlite.secure77.de/",
                 "id": 371990032,
                 "language": "CSS",
+                "license": "MIT",
                 "last_commit": "2026-01-21T23:35:21Z",
+                "open_issues": 10,
                 "owner": "secure-77",
                 "repo": "Perlite",
-                "stars": 1975
+                "stars": 1974,
+                "topics": [
+                  "markdown",
+                  "obsidian",
+                  "parsedown",
+                  "perlite"
+                ]
               },
               "first_seen": "2026-08-28T06:53:30.936Z"
             }
@@ -439,12 +719,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Using Obsidian.... For Business!",
+                "homepage": "https://www.bryanjenks.dev/",
                 "id": 354635128,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-12-08T02:52:04Z",
+                "open_issues": 0,
                 "owner": "tallguyjenks",
                 "repo": "Obsidian-For-Business",
-                "stars": 161
+                "stars": 161,
+                "topics": [
+                  "obsidian",
+                  "obsidian-md",
+                  "vba"
+                ]
               },
               "first_seen": "2026-08-28T06:53:30.936Z"
             },
@@ -455,12 +744,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "📎 Browse Markdown knowledge bases (e.g. Obsidian or Foam) in Sourcegraph",
+                "homepage": "https://sourcegraph.com/extensions/bobheadxi/sourcegraph-knowledge-bases",
                 "id": 382806205,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2023-02-27T00:27:24Z",
+                "open_issues": 1,
                 "owner": "bobheadxi",
                 "repo": "sourcegraph-knowledge-bases",
-                "stars": 26
+                "stars": 26,
+                "topics": [
+                  "markdown",
+                  "obsidian-md",
+                  "sourcegraph",
+                  "sourcegraph-extension",
+                  "zettelkasten"
+                ]
               },
               "first_seen": "2026-08-28T06:53:30.936Z"
             },
@@ -471,12 +771,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ObWeb = Obsidian on Mobile + Flomo + Rss Reader",
+                "homepage": null,
                 "id": 408270393,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2026-05-24T09:56:03Z",
+                "open_issues": 4,
                 "owner": "chenyukang",
                 "repo": "obweb",
-                "stars": 236
+                "stars": 236,
+                "topics": [
+                  "flomo",
+                  "obsidian",
+                  "obsidian-md"
+                ]
               },
               "first_seen": "2026-08-28T06:53:30.936Z"
             }
@@ -500,12 +809,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":rocket: Starter templates for Obsidian.md",
+                "homepage": "https://obsidian.md/",
                 "id": 268131398,
                 "language": "TeX",
+                "license": "CC0-1.0",
                 "last_commit": "2021-04-03T09:40:30Z",
+                "open_issues": 0,
                 "owner": "masonlr",
                 "repo": "obsidian-starter-templates",
-                "stars": 1032
+                "stars": 1032,
+                "topics": [
+                  "obsidian",
+                  "obsidian-md"
+                ]
               },
               "first_seen": "2026-08-28T06:53:30.936Z"
             },
@@ -516,12 +833,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A starter kit that follows how I use Obsidian to manage my goals, tasks, notes, and software development knowledge base.",
+                "homepage": "https://joshwin.imprint.to/post/how-i-use-obsidian-to-manage-my-goals-tasks-notes-and-software-development-knowledge-base",
                 "id": 287691590,
                 "language": "CSS",
+                "license": null,
                 "last_commit": "2020-08-17T01:06:31Z",
+                "open_issues": 0,
                 "owner": "joshwingreene",
                 "repo": "Obsidian-JG-Method",
-                "stars": 216
+                "stars": 216,
+                "topics": [
+                  "knowledge-base",
+                  "note-taking",
+                  "obsidian",
+                  "productivity",
+                  "task-manager"
+                ]
               },
               "first_seen": "2026-08-28T06:53:30.936Z"
             }
@@ -539,12 +867,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "These are a few of my templates for the Templater Obsidian.md plugin.",
+                "homepage": null,
                 "id": 362622141,
                 "language": null,
+                "license": null,
                 "last_commit": "2021-06-09T21:08:05Z",
+                "open_issues": 0,
                 "owner": "chetachiezikeuzor",
                 "repo": "Obsidian-Templates",
-                "stars": 95
+                "stars": 95,
+                "topics": [
+                  "obsidian",
+                  "plugin",
+                  "templater"
+                ]
               },
               "first_seen": "2026-08-28T06:53:30.936Z"
             },
@@ -555,12 +892,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A template plugin for obsidian",
+                "homepage": "https://silentvoid13.github.io/Templater",
                 "id": 310048170,
                 "language": "TypeScript",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-05T05:45:24Z",
+                "open_issues": 186,
                 "owner": "SilentVoid13",
                 "repo": "Templater",
-                "stars": 5245
+                "stars": 5248,
+                "topics": [
+                  "obsidian-md",
+                  "obsidian-plugin"
+                ]
               },
               "first_seen": "2026-08-28T06:53:30.936Z"
             },
@@ -571,12 +916,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A template plugin for obsidian",
+                "homepage": "https://silentvoid13.github.io/Templater",
                 "id": 310048170,
                 "language": "TypeScript",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-05T05:45:24Z",
+                "open_issues": 186,
                 "owner": "SilentVoid13",
                 "repo": "Templater",
-                "stars": 5245
+                "stars": 5248,
+                "topics": [
+                  "obsidian-md",
+                  "obsidian-plugin"
+                ]
               },
               "first_seen": "2026-08-28T06:53:30.936Z"
             }
@@ -598,12 +951,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A theme for Obsidian based on Atom's One family",
+            "homepage": null,
             "id": 269567219,
             "language": "CSS",
+            "license": "Unlicense",
             "last_commit": "2026-03-30T20:03:35Z",
+            "open_issues": 16,
             "owner": "kognise",
             "repo": "obsidian-atom",
-            "stars": 277
+            "stars": 277,
+            "topics": [
+              "obsidian-theme"
+            ]
           },
           "first_seen": "2026-08-28T06:53:30.936Z"
         },
@@ -614,12 +974,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Amethyst for Obsidian",
+            "homepage": null,
             "id": 263229101,
             "language": "CSS",
+            "license": null,
             "last_commit": "2021-08-12T00:00:07Z",
+            "open_issues": 3,
             "owner": "cotemaxime",
             "repo": "obsidian-amethyst",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:53:30.936Z"
         },
@@ -630,12 +995,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A gruvbox theme for Obsidian",
+            "homepage": null,
             "id": 258607910,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2024-08-01T10:50:07Z",
+            "open_issues": 9,
             "owner": "insanum",
             "repo": "obsidian_gruvbox",
-            "stars": 199
+            "stars": 199,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:53:30.936Z"
         },
@@ -646,12 +1016,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A nord theme for Obsidian",
+            "homepage": null,
             "id": 263714279,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2024-06-10T15:14:15Z",
+            "open_issues": 14,
             "owner": "insanum",
             "repo": "obsidian_nord",
-            "stars": 307
+            "stars": 307,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:53:30.936Z"
         },
@@ -662,12 +1037,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A dark theme for Obsidian.md",
+            "homepage": null,
             "id": 262602517,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2026-02-01T14:53:02Z",
+            "open_issues": 7,
             "owner": "jarodise",
             "repo": "Dracula-for-Obsidian.md",
-            "stars": 173
+            "stars": 173,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:53:30.936Z"
         },
@@ -678,12 +1058,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a warm light theme for obsidian app. ",
+            "homepage": null,
             "id": 265086569,
             "language": "CSS",
+            "license": null,
             "last_commit": "2021-08-20T18:03:42Z",
+            "open_issues": 3,
             "owner": "chad-bennett",
             "repo": "warmth-obsidian-theme",
-            "stars": 38
+            "stars": 38,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:53:30.936Z"
         },
@@ -694,12 +1079,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A CSS light theme of Obsidian Note Taking App",
+            "homepage": null,
             "id": 263695886,
             "language": "CSS",
+            "license": null,
             "last_commit": "2021-08-30T02:50:20Z",
+            "open_issues": 2,
             "owner": "dogwaddle",
             "repo": "obsidian-gastown-theme.md",
-            "stars": 34
+            "stars": 34,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:53:30.936Z"
         },
@@ -710,12 +1100,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A retro-future 80s inspired theme for Obsidian.md",
+            "homepage": null,
             "id": 263190067,
             "language": "CSS",
+            "license": "Unlicense",
             "last_commit": "2025-12-28T23:49:39Z",
+            "open_issues": 12,
             "owner": "deathau",
             "repo": "80s-Neon-for-Obsidian.md",
-            "stars": 156
+            "stars": 156,
+            "topics": [
+              "obsidian-md",
+              "obsidian-theme"
+            ]
           },
           "first_seen": "2026-08-28T06:53:30.936Z"
         },
@@ -726,12 +1124,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A theme for Obsidian based on http://base2t.one/ and http://simurai.com/duotone-dark-sky-syntax/",
+            "homepage": null,
             "id": 263237302,
             "language": "CSS",
+            "license": "Unlicense",
             "last_commit": "2021-08-12T00:33:39Z",
+            "open_issues": 1,
             "owner": "deathau",
             "repo": "Base2Tone-For-Obsidian.md",
-            "stars": 20
+            "stars": 20,
+            "topics": [
+              "obsidian-md",
+              "obsidian-theme"
+            ]
           },
           "first_seen": "2026-08-28T06:53:30.936Z"
         },
@@ -742,12 +1148,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A theme for Obsidian, inspired by and borrowing elements from Notion",
+            "homepage": null,
             "id": 267189798,
             "language": "CSS",
+            "license": "Unlicense",
             "last_commit": "2020-12-12T18:35:26Z",
+            "open_issues": 11,
             "owner": "deathau",
             "repo": "Notation-for-Obsidian",
-            "stars": 217
+            "stars": 217,
+            "topics": [
+              "obsidian-md",
+              "obsidian-theme"
+            ]
           },
           "first_seen": "2026-08-28T06:53:30.936Z"
         },
@@ -758,12 +1172,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Inspired by the Dynalist Christmas theme",
+            "homepage": null,
             "id": 269549728,
             "language": "CSS",
+            "license": "Unlicense",
             "last_commit": "2020-10-28T05:35:19Z",
+            "open_issues": 2,
             "owner": "deathau",
             "repo": "obsidian-christmas-theme",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "obsidian-md",
+              "obsidian-theme"
+            ]
           },
           "first_seen": "2026-08-28T06:53:30.936Z"
         },
@@ -774,12 +1196,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A solarized recolor of Obsidian.",
+            "homepage": null,
             "id": 264477396,
             "language": "SCSS",
+            "license": "MIT",
             "last_commit": "2025-08-27T06:28:59Z",
+            "open_issues": 3,
             "owner": "harmtemolder",
             "repo": "obsidian-solarized",
-            "stars": 71
+            "stars": 71,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:53:30.936Z"
         },
@@ -790,12 +1217,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Comfort Color Dark Theme for Obsidian",
+            "homepage": null,
             "id": 263499165,
             "language": "CSS",
+            "license": null,
             "last_commit": "2021-07-16T03:36:45Z",
+            "open_issues": 3,
             "owner": "obsidian-ezs",
             "repo": "obsidian-comfort-color-dark",
-            "stars": 30
+            "stars": 30,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:53:30.936Z"
         },
@@ -806,12 +1238,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "\"Ursa\" light and dark theme for Obsidian.md",
+            "homepage": null,
             "id": 264342032,
             "language": "CSS",
+            "license": null,
             "last_commit": "2020-09-17T08:17:33Z",
+            "open_issues": 10,
             "owner": "obsidian-ezs",
             "repo": "obsidian-ursa",
-            "stars": 38
+            "stars": 38,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:53:30.936Z"
         },
@@ -822,12 +1259,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A revised retro theme for Obsidian inspired by Cyberpunk 2077, Dynalist, Tron, The Terminator, Synthwave, and Keanu Reeves",
+            "homepage": null,
             "id": 269522725,
             "language": "CSS",
+            "license": null,
             "last_commit": "2025-06-18T00:25:36Z",
+            "open_issues": 17,
             "owner": "nickmilo",
             "repo": "Cybertron",
-            "stars": 132
+            "stars": 132,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:53:30.936Z"
         },
@@ -838,12 +1280,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A theme for Obsidian Vault",
+            "homepage": null,
             "id": 266455158,
             "language": "CSS",
+            "license": null,
             "last_commit": "2021-03-16T17:34:00Z",
+            "open_issues": 0,
             "owner": "kartik-karz",
             "repo": "moonlight-obsidian",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:53:30.936Z"
         },
@@ -854,12 +1301,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A light theme for Obsidian.md, based on Bear.app's Red Graphite theme.",
+            "homepage": null,
             "id": 267758116,
             "language": "SCSS",
+            "license": "Unlicense",
             "last_commit": "2024-11-03T19:14:15Z",
+            "open_issues": 7,
             "owner": "seanwcom",
             "repo": "Red-Graphite-for-Obsidian",
-            "stars": 226
+            "stars": 226,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:53:30.936Z"
         },
@@ -870,12 +1322,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A subtlegold theme for obsidian",
+            "homepage": null,
             "id": 267863477,
             "language": "CSS",
+            "license": null,
             "last_commit": "2022-10-31T19:46:20Z",
+            "open_issues": 3,
             "owner": "kartik-karz",
             "repo": "subtlegold-obsidian",
-            "stars": 28
+            "stars": 28,
+            "topics": [
+              "hacktoberfest",
+              "obsidian-md",
+              "theme"
+            ]
           },
           "first_seen": "2026-08-28T06:53:30.936Z"
         },
@@ -886,12 +1347,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Boom Theme for Obsidian (Inspired by Roam Research)",
+            "homepage": null,
             "id": 266321565,
             "language": "CSS",
+            "license": null,
             "last_commit": "2020-06-01T16:16:04Z",
+            "open_issues": 3,
             "owner": "sainadhx",
             "repo": "obsidian-boom",
-            "stars": 23
+            "stars": 23,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:53:30.936Z"
         },
@@ -902,12 +1368,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A custom CSS theme for Obsidian inspired by The Incredible Hulk",
+            "homepage": null,
             "id": 267971886,
             "language": "CSS",
+            "license": null,
             "last_commit": "2021-07-13T10:04:52Z",
+            "open_issues": 0,
             "owner": "pgalliford",
             "repo": "Obsidian-theme-Incredible-Hulk",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:53:30.936Z"
         },
@@ -918,12 +1389,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is an obsidian theme with clean line-drawing appearance. Only dark mode available.",
+            "homepage": null,
             "id": 271130889,
             "language": "CSS",
+            "license": null,
             "last_commit": "2021-06-26T15:27:37Z",
+            "open_issues": 7,
             "owner": "GuangluWu",
             "repo": "obsidian-pisum",
-            "stars": 45
+            "stars": 45,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:53:30.936Z"
         },
@@ -934,12 +1410,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A dark/light CSS theme for Obsidian",
+            "homepage": null,
             "id": 273195029,
             "language": "CSS",
+            "license": null,
             "last_commit": "2020-06-18T20:13:18Z",
+            "open_issues": 4,
             "owner": "elliotboyd",
             "repo": "obsidian-traffic-lights",
-            "stars": 50
+            "stars": 50,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:53:30.936Z"
         },
@@ -950,12 +1431,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A theme for Obsidian, inspired by the works of Athanasius Kircher",
+            "homepage": null,
             "id": 276532439,
             "language": "CSS",
+            "license": "Unlicense",
             "last_commit": "2021-03-18T01:13:38Z",
+            "open_issues": 0,
             "owner": "mediapathic",
             "repo": "obsidian-arsmagna-theme",
-            "stars": 60
+            "stars": 60,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:53:30.936Z"
         },
@@ -966,12 +1452,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a Theme for Obsidian.md - Light & Dark version",
+            "homepage": "http://obsidian.md/",
             "id": 273720835,
             "language": "CSS",
+            "license": null,
             "last_commit": "2020-09-22T21:38:04Z",
+            "open_issues": 4,
             "owner": "cannibalox",
             "repo": "Obsdn-dark-rmx",
-            "stars": 38
+            "stars": 38,
+            "topics": [
+              "css",
+              "obsidian",
+              "theme"
+            ]
           },
           "first_seen": "2026-08-28T06:53:30.936Z"
         },
@@ -982,12 +1477,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A distraction-free and highly customizable theme for Obsidian.",
+            "homepage": "https://minimal.guide",
             "id": 282550237,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2026-08-03T18:01:40Z",
+            "open_issues": 164,
             "owner": "kepano",
             "repo": "obsidian-minimal",
-            "stars": 5352
+            "stars": 5353,
+            "topics": [
+              "dark-mode",
+              "dark-theme",
+              "light-theme",
+              "obsidian",
+              "obsidian-md",
+              "obsidian-theme",
+              "theme"
+            ]
           },
           "first_seen": "2026-08-28T06:53:30.936Z"
         },
@@ -998,12 +1506,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A clean and minimal theme for obsidian, heavily inspired by iA Writer.",
+            "homepage": null,
             "id": 290117660,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2021-11-14T16:18:27Z",
+            "open_issues": 8,
             "owner": "rcvd",
             "repo": "obsidian_ia",
-            "stars": 119
+            "stars": 119,
+            "topics": [
+              "obsidian",
+              "obsidian-theme"
+            ]
           },
           "first_seen": "2026-08-28T06:53:30.936Z"
         },
@@ -1014,12 +1530,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 290487017,
             "language": "CSS",
+            "license": null,
             "last_commit": "2022-02-13T11:00:22Z",
+            "open_issues": 2,
             "owner": "bcdavasconcelos",
             "repo": "Obsidian-Charcoal",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:53:30.936Z"
         },
@@ -1030,12 +1551,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 290486466,
             "language": "CSS",
+            "license": null,
             "last_commit": "2022-02-13T11:00:55Z",
+            "open_issues": 0,
             "owner": "bcdavasconcelos",
             "repo": "Obsidian-Panic_Mode",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:53:30.936Z"
         },
@@ -1046,12 +1572,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 290488316,
             "language": "CSS",
+            "license": null,
             "last_commit": "2022-02-13T11:01:54Z",
+            "open_issues": 0,
             "owner": "bcdavasconcelos",
             "repo": "Obsidian-Graphite",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:53:30.936Z"
         },
@@ -1062,12 +1593,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 290488105,
             "language": "CSS",
+            "license": null,
             "last_commit": "2022-02-13T11:00:08Z",
+            "open_issues": 0,
             "owner": "bcdavasconcelos",
             "repo": "Obsidian-Ayu",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:53:30.936Z"
         },
@@ -1078,12 +1614,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 290488205,
             "language": "CSS",
+            "license": null,
             "last_commit": "2022-02-13T11:00:16Z",
+            "open_issues": 2,
             "owner": "bcdavasconcelos",
             "repo": "Obsidian-Ayu_Mirage",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:53:30.936Z"
         },
@@ -1094,12 +1635,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 290488477,
             "language": "CSS",
+            "license": null,
             "last_commit": "2022-02-13T11:00:31Z",
+            "open_issues": 1,
             "owner": "bcdavasconcelos",
             "repo": "Obsidian-GDCT",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:53:30.936Z"
         },
@@ -1110,12 +1656,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 290488614,
             "language": "CSS",
+            "license": null,
             "last_commit": "2022-02-13T11:00:38Z",
+            "open_issues": 0,
             "owner": "bcdavasconcelos",
             "repo": "Obsidian-GDCT_Dark",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:53:30.936Z"
         },
@@ -1126,12 +1677,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A theme for Obsidian, inspired by and borrowing elements from Ubuntu ",
+            "homepage": null,
             "id": 292918056,
             "language": "CSS",
+            "license": null,
             "last_commit": "2025-06-27T07:19:07Z",
+            "open_issues": 1,
             "owner": "dmytrodubinin",
             "repo": "Obuntu-theme-for-Obsidian",
-            "stars": 26
+            "stars": 26,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:53:30.936Z"
         },
@@ -1142,12 +1698,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "an anti-distraction-free theme for obsidian with a terminal flavor",
+            "homepage": null,
             "id": 292466565,
             "language": "CSS",
+            "license": null,
             "last_commit": "2024-06-20T14:46:36Z",
+            "open_issues": 7,
             "owner": "cannibalox",
             "repo": "ono-sendai_obsdn",
-            "stars": 54
+            "stars": 54,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:53:30.936Z"
         },
@@ -1158,12 +1719,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A blue theme for Obsidian. ",
+            "homepage": null,
             "id": 300152130,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2026-08-15T10:48:47Z",
+            "open_issues": 131,
             "owner": "PKM-er",
             "repo": "Blue-Topaz_Obsidian-css",
-            "stars": 1619
+            "stars": 1620,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:53:30.936Z"
         },
@@ -1174,12 +1740,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is an Obsidian Theme with Dark Mode and Light Mode Functionality",
+            "homepage": null,
             "id": 302398433,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2026-05-22T20:24:50Z",
+            "open_issues": 0,
             "owner": "santiyounger",
             "repo": "Reverie-Obsidian-Theme",
-            "stars": 30
+            "stars": 30,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:53:30.936Z"
         },
@@ -1190,12 +1761,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "custom-CSS for Obsidian app",
+            "homepage": null,
             "id": 305079207,
             "language": "CSS",
+            "license": "Unlicense",
             "last_commit": "2026-02-10T09:33:14Z",
+            "open_issues": 0,
             "owner": "ryjjin",
             "repo": "Obsidian-Dark-Graphite-Pie-theme",
-            "stars": 17
+            "stars": 17,
+            "topics": [
+              "custom-css",
+              "obsidian"
+            ]
           },
           "first_seen": "2026-08-28T06:53:30.936Z"
         },
@@ -1206,12 +1785,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🎨 Obsidian.md custom theme, it's dark and simple but yet still stays sparkles! ",
+            "homepage": null,
             "id": 308559808,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2024-02-26T17:42:12Z",
+            "open_issues": 26,
             "owner": "bennyxguo",
             "repo": "Obsidian-Obsidianite",
-            "stars": 376
+            "stars": 376,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:53:30.936Z"
         },
@@ -1222,12 +1806,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An obsidian theme inspired by GitHub markdown styles",
+            "homepage": null,
             "id": 309210939,
             "language": "CSS",
+            "license": null,
             "last_commit": "2020-11-02T03:34:46Z",
+            "open_issues": 5,
             "owner": "ismailgunacar",
             "repo": "gitsidian",
-            "stars": 23
+            "stars": 23,
+            "topics": [
+              "obsidian-md",
+              "obsidian-theme"
+            ]
           },
           "first_seen": "2026-08-28T06:53:30.936Z"
         },
@@ -1238,12 +1830,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "An obsidian.md theme inspired by the Moonlight family of themes",
+            "homepage": null,
             "id": 305476188,
             "language": "SCSS",
+            "license": null,
             "last_commit": "2023-06-28T19:58:58Z",
+            "open_issues": 9,
             "owner": "jamiebrynes7",
             "repo": "clair-de-lune-obsidian-theme",
-            "stars": 88
+            "stars": 88,
+            "topics": [
+              "obsidian-md",
+              "obsidian-theme"
+            ]
           },
           "first_seen": "2026-08-28T06:53:30.936Z"
         },
@@ -1254,12 +1854,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Molecule theme for Obsidian. Light mode only",
+            "homepage": null,
             "id": 311038907,
             "language": "CSS",
+            "license": null,
             "last_commit": "2021-05-28T11:02:40Z",
+            "open_issues": 1,
             "owner": "manassadasivuni",
             "repo": "obsidian-molecule",
-            "stars": 28
+            "stars": 28,
+            "topics": [
+              "obsidian",
+              "obsidian-md",
+              "obsidian-theme"
+            ]
           },
           "first_seen": "2026-08-28T06:53:30.936Z"
         },
@@ -1270,12 +1879,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Comfort-smooth theme for Obsidian. Dark mode only",
+            "homepage": null,
             "id": 315003809,
             "language": "CSS",
+            "license": null,
             "last_commit": "2020-11-23T10:02:23Z",
+            "open_issues": 2,
             "owner": "sparklau",
             "repo": "comfort-smooth",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:53:30.936Z"
         },
@@ -1286,12 +1900,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Obsidian theme",
+            "homepage": null,
             "id": 315164659,
             "language": "CSS",
+            "license": null,
             "last_commit": "2021-04-27T08:26:47Z",
+            "open_issues": 2,
             "owner": "dxcore35",
             "repo": "Suddha-theme",
-            "stars": 21
+            "stars": 21,
+            "topics": [
+              "obsidian",
+              "obsidian-md",
+              "obsidian-theme"
+            ]
           },
           "first_seen": "2026-08-28T06:53:30.936Z"
         },
@@ -1302,12 +1925,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A minimalist obsidian theme inspired by macOS Big Sur",
+            "homepage": null,
             "id": 321181341,
             "language": "CSS",
+            "license": "GPL-3.0",
             "last_commit": "2026-04-25T16:01:40Z",
+            "open_issues": 13,
             "owner": "mgmeyers",
             "repo": "obsidian-california-coast-theme",
-            "stars": 576
+            "stars": 576,
+            "topics": [
+              "obsidian",
+              "obsidian-md",
+              "obsidian-theme"
+            ]
           },
           "first_seen": "2026-08-28T06:53:30.936Z"
         },
@@ -1318,12 +1950,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Obsidian dark theme inspired by Discord",
+            "homepage": null,
             "id": 314210690,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2025-07-08T21:54:21Z",
+            "open_issues": 13,
             "owner": "radekkozak",
             "repo": "discordian",
-            "stars": 119
+            "stars": 119,
+            "topics": [
+              "css",
+              "discordian",
+              "obsidian",
+              "obsidian-md",
+              "obsidian-theme",
+              "theme"
+            ]
           },
           "first_seen": "2026-08-28T06:53:30.936Z"
         },
@@ -1334,12 +1978,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "an obsidian theme",
+            "homepage": null,
             "id": 294717128,
             "language": "CSS",
+            "license": "CC0-1.0",
             "last_commit": "2021-08-22T21:50:46Z",
+            "open_issues": 3,
             "owner": "chad-bennett",
             "repo": "al-dente-obsidian-theme",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:53:30.936Z"
         },
@@ -1350,12 +1999,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Obsidian.md Theme",
+            "homepage": null,
             "id": 306428083,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2026-05-22T20:20:57Z",
+            "open_issues": 0,
             "owner": "santiyounger",
             "repo": "Wasp-Obsidian-Theme",
-            "stars": 65
+            "stars": 65,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:53:30.936Z"
         },
@@ -1366,12 +2020,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 336072552,
             "language": "CSS",
+            "license": "Unlicense",
             "last_commit": "2025-07-21T20:20:26Z",
+            "open_issues": 2,
             "owner": "davidgolding",
             "repo": "obsidian-big-sur-aesthetic",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:53:30.936Z"
         },
@@ -1382,12 +2041,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Makes obsidian notes look like printed text annotated with highlighter.",
+            "homepage": null,
             "id": 313227867,
             "language": "CSS",
+            "license": "NOASSERTION",
             "last_commit": "2022-01-23T11:43:58Z",
+            "open_issues": 0,
             "owner": "lukauskas",
             "repo": "obsidian-highlighter-theme",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "obsidian-theme"
+            ]
           },
           "first_seen": "2026-08-28T06:53:30.936Z"
         },
@@ -1398,12 +2064,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Theme designed with readability and customizability in mind. Change it easily to your liking with the Style Settings plugin installed.",
+            "homepage": "https://publish.obsidian.md/slrvb-docs/ITS+Theme/ITS+Theme",
             "id": 334402667,
             "language": "SCSS",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-17T20:23:41Z",
+            "open_issues": 39,
             "owner": "SlRvb",
             "repo": "Obsidian--ITS-Theme",
-            "stars": 767
+            "stars": 768,
+            "topics": [
+              "css-snippets",
+              "darkmode",
+              "lightmode",
+              "obsidian",
+              "obsidian-md",
+              "obsidian-theme",
+              "theme"
+            ]
           },
           "first_seen": "2026-08-28T06:53:30.936Z"
         },
@@ -1414,12 +2093,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Spectrum is an Obsidian theme.",
+            "homepage": null,
             "id": 336867888,
             "language": "SCSS",
+            "license": "MIT",
             "last_commit": "2023-05-02T07:58:28Z",
+            "open_issues": 6,
             "owner": "wiktoriavh",
             "repo": "Spectrum",
-            "stars": 135
+            "stars": 135,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:53:30.936Z"
         },
@@ -1430,12 +2114,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A theme for obsidian.md",
+            "homepage": null,
             "id": 340730147,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2022-11-21T01:27:36Z",
+            "open_issues": 2,
             "owner": "hipstersmoothie",
             "repo": "hipstersmoothie-obsidian-theme",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:53:30.936Z"
         },
@@ -1446,12 +2135,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Obsidian theme inspired by the grass pokemon, Vileplume!",
+            "homepage": "https://forum.obsidian.md/t/vileplume-a-dark-theme/14730",
             "id": 347766406,
             "language": "CSS",
+            "license": null,
             "last_commit": "2023-10-24T04:49:07Z",
+            "open_issues": 6,
             "owner": "hungsu",
             "repo": "vileplume-obsidian",
-            "stars": 15
+            "stars": 15,
+            "topics": [
+              "css",
+              "obsidian-md",
+              "obsidian-theme"
+            ]
           },
           "first_seen": "2026-08-28T06:53:30.936Z"
         },
@@ -1462,12 +2160,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🗒 A futuristic theme for Obsidian.md",
+            "homepage": null,
             "id": 359761435,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2023-06-08T14:36:45Z",
+            "open_issues": 6,
             "owner": "auroral-ui",
             "repo": "aurora-obsidian-md",
-            "stars": 32
+            "stars": 32,
+            "topics": [
+              "aurora",
+              "aurora-theme",
+              "dark-theme",
+              "obsidian-md",
+              "obsidian-md-theme"
+            ]
           },
           "first_seen": "2026-08-28T06:53:30.936Z"
         },
@@ -1478,12 +2187,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 368556566,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2021-09-28T13:00:47Z",
+            "open_issues": 1,
             "owner": "izumin5210",
             "repo": "obsidian-iceberg",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:53:30.936Z"
         },
@@ -1494,12 +2208,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Obsidian theme inspired by the original Night Owl VS Code Theme by Sarah Drasner!",
+            "homepage": null,
             "id": 325347452,
             "language": null,
+            "license": null,
             "last_commit": "2024-01-18T01:28:33Z",
+            "open_issues": 9,
             "owner": "bencodezen",
             "repo": "obsidian-night-owl-theme",
-            "stars": 56
+            "stars": 56,
+            "topics": [
+              "night-owl-theme",
+              "obsidian"
+            ]
           },
           "first_seen": "2026-08-28T06:53:30.936Z"
         },
@@ -1510,12 +2232,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Obsidian.md theme with a stark contrast between dark mode and light mode, much like the Yin and Yang symbol ☯️.",
+            "homepage": null,
             "id": 361975238,
             "language": "CSS",
+            "license": "MPL-2.0",
             "last_commit": "2023-04-12T17:43:30Z",
+            "open_issues": 53,
             "owner": "chetachiezikeuzor",
             "repo": "Yin-and-Yang-Theme",
-            "stars": 562
+            "stars": 562,
+            "topics": [
+              "dark-theme",
+              "light-theme",
+              "obsidian-md",
+              "obsidian-theme",
+              "theme"
+            ]
           },
           "first_seen": "2026-08-28T06:53:30.936Z"
         },
@@ -1526,12 +2259,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Golden Topaz theme for Obsidian. ",
+            "homepage": "https://forum.obsidian.md/t/golden-topaz-theme-of-sublime/18489",
             "id": 368981495,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2021-06-08T18:21:58Z",
+            "open_issues": 5,
             "owner": "shaggyfeng",
             "repo": "obsidian-Golden-Topaz-theme",
-            "stars": 29
+            "stars": 29,
+            "topics": [
+              "gold",
+              "golden-topaz",
+              "obsidian",
+              "theme"
+            ]
           },
           "first_seen": "2026-08-28T06:53:30.936Z"
         },
@@ -1542,12 +2285,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pink Topaz theme for Obsidian.",
+            "homepage": "https://forum.obsidian.md/t/pink-topaz-theme-for-flowers-and-sweetness/18451",
             "id": 368757929,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2023-03-03T06:01:35Z",
+            "open_issues": 7,
             "owner": "shaggyfeng",
             "repo": "obsidian-Pink-topaz-theme",
-            "stars": 32
+            "stars": 32,
+            "topics": [
+              "obsidian",
+              "pink",
+              "pink-topaz",
+              "theme"
+            ]
           },
           "first_seen": "2026-08-28T06:53:30.936Z"
         },
@@ -1558,12 +2311,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "snippets of a theme for obsidian",
+            "homepage": null,
             "id": 333205108,
             "language": "CSS",
+            "license": "Unlicense",
             "last_commit": "2021-11-24T02:18:22Z",
+            "open_issues": 0,
             "owner": "eleanorkonik",
             "repo": "-palatinate",
-            "stars": 48
+            "stars": 48,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:53:30.936Z"
         },
@@ -1574,12 +2332,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Obsidian dark theme",
+            "homepage": null,
             "id": 369257783,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2023-02-17T13:59:45Z",
+            "open_issues": 0,
             "owner": "sergey900553",
             "repo": "obsidian_githublike_theme",
-            "stars": 24
+            "stars": 24,
+            "topics": [
+              "obsidian",
+              "obsidian-md",
+              "obsidian-theme"
+            ]
           },
           "first_seen": "2026-08-28T06:53:30.936Z"
         },
@@ -1590,12 +2357,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This theme should be considered highly experimental. I'm still figuring out what I want it to be.",
+            "homepage": null,
             "id": 310954623,
             "language": "CSS",
+            "license": "GPL-3.0",
             "last_commit": "2022-10-27T06:24:49Z",
+            "open_issues": 10,
             "owner": "Wittionary",
             "repo": "mammoth-obsidian-theme",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "obsidian-md",
+              "obsidian-theme"
+            ]
           },
           "first_seen": "2026-08-28T06:53:30.936Z"
         },
@@ -1606,12 +2381,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 371023949,
             "language": "CSS",
+            "license": "GPL-3.0",
             "last_commit": "2024-01-26T05:18:50Z",
+            "open_issues": 1,
             "owner": "luke-rmaki",
             "repo": "rmaki-obsidian",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:53:30.936Z"
         },
@@ -1622,12 +2402,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A colorful unique theme, giving Obsidian a fresh new look with glow effects and support for accent color. The theme now tries to provide a unique futuristic eye-candy look to obsidian while keeping it usable and familiar to the users. Made to be yours to tweak.",
+            "homepage": null,
             "id": 326867159,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2026-08-23T01:38:28Z",
+            "open_issues": 22,
             "owner": "ThePharaohArt",
             "repo": "Obsidian-CyberGlow",
-            "stars": 122
+            "stars": 122,
+            "topics": [
+              "css",
+              "dark-theme",
+              "light-theme",
+              "mobile",
+              "obsidian-md",
+              "phone",
+              "tablet",
+              "theme"
+            ]
           },
           "first_seen": "2026-08-28T06:53:30.936Z"
         },
@@ -1638,12 +2432,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A dark theme for Obsidian",
+            "homepage": null,
             "id": 384430084,
             "language": "CSS",
+            "license": "GPL-3.0",
             "last_commit": "2026-03-27T10:49:53Z",
+            "open_issues": 0,
             "owner": "johackim",
             "repo": "obsidian-darkyan",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "dark-theme",
+              "obsidian",
+              "obsidian-md",
+              "obsidian-theme",
+              "theme"
+            ]
           },
           "first_seen": "2026-08-28T06:53:30.936Z"
         },
@@ -1654,12 +2459,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Everforest theme ported to Obsidian.md",
+            "homepage": null,
             "id": 380633199,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2026-07-22T02:22:22Z",
+            "open_issues": 19,
             "owner": "0xGlitchbyte",
             "repo": "obsidian_everforest",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "dark-mode",
+              "dark-theme",
+              "theme"
+            ]
           },
           "first_seen": "2026-08-28T06:53:30.936Z"
         },
@@ -1670,12 +2484,27 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Inspired of the similarly named theme, Horizon is a dark theme created for Obsidian. Compatible with Obsidian Desktop, Mobile, and Publish.",
+            "homepage": "https://damnthattelevision.com",
             "id": 332843002,
             "language": "SCSS",
+            "license": "Unlicense",
             "last_commit": "2022-01-01T22:24:24Z",
+            "open_issues": 5,
             "owner": "tylernguyen",
             "repo": "obsidian-horizon",
-            "stars": 31
+            "stars": 31,
+            "topics": [
+              "css",
+              "dark-theme",
+              "obsidian",
+              "obsidian-md",
+              "obsidian-publish",
+              "obsidian-theme",
+              "sass",
+              "scss",
+              "theme"
+            ]
           },
           "first_seen": "2026-08-28T06:53:30.936Z"
         },
@@ -1686,12 +2515,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Blackbird theme for Obsidian.md",
+            "homepage": null,
             "id": 390021031,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2021-11-04T09:46:55Z",
+            "open_issues": 0,
             "owner": "vanadium23",
             "repo": "obsidian-blackbird-theme",
-            "stars": 16
+            "stars": 16,
+            "topics": [
+              "obsidian-md",
+              "obsidian-theme"
+            ]
           },
           "first_seen": "2026-08-28T06:53:30.936Z"
         },
@@ -1702,12 +2539,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Behave dark theme for Obsidian.md",
+            "homepage": null,
             "id": 393682927,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2023-12-02T10:18:17Z",
+            "open_issues": 3,
             "owner": "Chrismettal",
             "repo": "Obsidian-Behave-dark",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "behave",
+              "dark-theme",
+              "note",
+              "obsidian",
+              "taking",
+              "theme",
+              "vscode"
+            ]
           },
           "first_seen": "2026-08-28T06:53:30.936Z"
         },
@@ -1718,12 +2568,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A windows 98 makeover theme for Obsidian",
+            "homepage": null,
             "id": 394417365,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-29T21:21:31Z",
+            "open_issues": 2,
             "owner": "SMUsamaShah",
             "repo": "Obsidian-Win98-Edition",
-            "stars": 70
+            "stars": 70,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:53:30.936Z"
         },
@@ -1734,12 +2589,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Obsidian CSS light theme",
+            "homepage": null,
             "id": 271065232,
             "language": "CSS",
+            "license": null,
             "last_commit": "2022-10-23T13:57:51Z",
+            "open_issues": 0,
             "owner": "dogwaddle",
             "repo": "lizardmen-zettelkasten",
-            "stars": 34
+            "stars": 34,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:53:30.936Z"
         },
@@ -1750,12 +2610,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "(ARCHIVED AND NOT LIVE-PREVIEW-CAPABLE) **LIGHT-MODE ONLY** CSS theme for obsidian.md, made with the intent of eliminating distractions and looking very posh.",
+            "homepage": null,
             "id": 358766863,
             "language": "SCSS",
+            "license": null,
             "last_commit": "2021-08-18T16:04:53Z",
+            "open_issues": 0,
             "owner": "firinael",
             "repo": "obsidian-cidreira-coast-theme",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:53:30.936Z"
         },
@@ -1766,12 +2631,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A minimalistic and opinionated Obsidian theme for the keyboard-centric user.",
+            "homepage": null,
             "id": 400614754,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2026-08-03T21:20:15Z",
+            "open_issues": 2,
             "owner": "chrisgrieser",
             "repo": "shimmering-focus",
-            "stars": 645
+            "stars": 645,
+            "topics": [
+              "dark-theme",
+              "light-theme",
+              "obsidian-md",
+              "obsidian-theme",
+              "theme"
+            ]
           },
           "first_seen": "2026-08-28T06:53:30.936Z"
         },
@@ -1782,12 +2658,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A dark theme for obsidian.md",
+            "homepage": null,
             "id": 458797648,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2026-03-30T06:44:20Z",
+            "open_issues": 10,
             "owner": "caro401",
             "repo": "royal-velvet",
-            "stars": 130
+            "stars": 130,
+            "topics": [
+              "obsidian-md",
+              "obsidian-theme"
+            ]
           },
           "first_seen": "2026-08-28T06:53:30.936Z"
         }
@@ -1806,12 +2690,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A dynamic user interface for adjusting theme, plugin, and snippet CSS variables within Obsidian",
+                "homepage": null,
                 "id": 352429422,
                 "language": "TypeScript",
+                "license": "GPL-3.0",
                 "last_commit": "2026-07-13T23:32:02Z",
+                "open_issues": 40,
                 "owner": "community-archive",
                 "repo": "obsidian-style-settings",
-                "stars": 2458
+                "stars": 2458,
+                "topics": [
+                  "obsidian-plugin"
+                ]
               },
               "first_seen": "2026-08-28T06:53:30.936Z"
             }
@@ -1829,12 +2720,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An unofficial collection of tools that helps you build plugins for obsidian.md",
+                "homepage": null,
                 "id": 340129155,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-08T21:15:04Z",
+                "open_issues": 19,
                 "owner": "obsidian-tools",
                 "repo": "obsidian-tools",
-                "stars": 308
+                "stars": 308,
+                "topics": [
+                  "cli",
+                  "obsidian",
+                  "obsidian-md",
+                  "obsidian-plugin"
+                ]
               },
               "first_seen": "2026-08-28T06:53:30.936Z"
             },
@@ -1845,12 +2746,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Package to create, open, and find daily notes from your Obsidian plugin",
+                "homepage": null,
                 "id": 314422855,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-05-13T22:38:11Z",
+                "open_issues": 13,
                 "owner": "liamcain",
                 "repo": "obsidian-daily-notes-interface",
-                "stars": 109
+                "stars": 109,
+                "topics": [
+                  "obsidian-md"
+                ]
               },
               "first_seen": "2026-08-28T06:53:30.936Z"
             },
@@ -1861,12 +2769,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 348154623,
                 "language": "Rust",
+                "license": null,
                 "last_commit": "2021-03-20T15:16:53Z",
+                "open_issues": 2,
                 "owner": "trashhalo",
                 "repo": "obsidian-rust-plugin",
-                "stars": 108
+                "stars": 108,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:53:30.936Z"
             },
@@ -1877,12 +2790,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 393723263,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2021-08-21T05:08:25Z",
+                "open_issues": 7,
                 "owner": "KjellConnelly",
                 "repo": "obsidian-dev-tools",
-                "stars": 65
+                "stars": 65,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:53:30.936Z"
             },
@@ -1893,12 +2811,20 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Template for Obsidian.md Plugins",
+                "homepage": null,
                 "id": 307802311,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2022-01-10T10:56:08Z",
+                "open_issues": 0,
                 "owner": "THeK3nger",
                 "repo": "obsidian-plugin-template",
-                "stars": 39
+                "stars": 39,
+                "topics": [
+                  "obsidian-md",
+                  "obsidian-plugin"
+                ]
               },
               "first_seen": "2026-08-28T06:53:30.936Z"
             },
@@ -1909,12 +2835,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The UI that powers the obsidian-calendar-plugin",
+                "homepage": null,
                 "id": 323795885,
                 "language": "Svelte",
+                "license": "MIT",
                 "last_commit": "2023-09-17T14:12:45Z",
+                "open_issues": 6,
                 "owner": "liamcain",
                 "repo": "obsidian-calendar-ui",
-                "stars": 38
+                "stars": 38,
+                "topics": [
+                  "obsidian-md"
+                ]
               },
               "first_seen": "2026-08-28T06:53:30.936Z"
             },
@@ -1925,12 +2858,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Vault parser for the Obsidian note taking app",
+                "homepage": null,
                 "id": 324717391,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-03-06T12:59:13Z",
+                "open_issues": 8,
                 "owner": "coffee-cup",
                 "repo": "obsidian-vault-parser",
-                "stars": 34
+                "stars": 34,
+                "topics": [
+                  "obsidian-md",
+                  "parser",
+                  "vault"
+                ]
               },
               "first_seen": "2026-08-28T06:53:30.936Z"
             },
@@ -1941,12 +2883,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A community-maintained Obsidian vault that documents the Obsidian plugin API.",
+                "homepage": null,
                 "id": 331041519,
                 "language": null,
+                "license": null,
                 "last_commit": "2021-08-26T08:05:19Z",
+                "open_issues": 3,
                 "owner": "HEmile",
                 "repo": "obsidian-api-docs",
-                "stars": 20
+                "stars": 20,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:53:30.936Z"
             },
@@ -1962,12 +2909,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Template for Obsidian community plugins with build configuration and development best practices.",
+                    "homepage": "https://docs.obsidian.md",
                     "id": 307179377,
                     "language": "TypeScript",
+                    "license": "0BSD",
                     "last_commit": "2026-08-02T15:56:53Z",
+                    "open_issues": 22,
                     "owner": "obsidianmd",
                     "repo": "obsidian-sample-plugin",
-                    "stars": 4489
+                    "stars": 4496,
+                    "topics": [
+                      "obsidian",
+                      "obsidian-md",
+                      "obsidian-plugin",
+                      "plugin"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:53:30.936Z"
                 },
@@ -1978,12 +2935,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Type definitions for the latest Obsidian API.",
+                    "homepage": "https://docs.obsidian.md",
                     "id": 307408387,
                     "language": null,
+                    "license": "MIT",
                     "last_commit": "2026-07-14T14:31:59Z",
+                    "open_issues": 21,
                     "owner": "obsidianmd",
                     "repo": "obsidian-api",
-                    "stars": 2316
+                    "stars": 2316,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:53:30.936Z"
                 }
@@ -1999,15 +2961,24 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T06:53:30.936Z",
+    "last_updated": "2026-08-29T04:07:25.407Z",
     "original_repository_info": {
       "archived": false,
+      "description": "🕶️ Awesome stuff for Obsidian",
+      "homepage": null,
       "id": 263321845,
       "language": "CSS",
+      "license": "CC0-1.0",
       "last_commit": "2024-04-06T05:47:06Z",
+      "open_issues": 53,
       "owner": "kmaasrud",
       "repo": "awesome-obsidian",
-      "stars": 9285
+      "stars": 9286,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "obsidian"
+      ]
     },
     "original_repository_sha": "f5e4b78deb96353254b4e446434f44d6e6ab5c48",
     "enhanced_repository": "enhansome/enhansome-obsidian",
