@@ -38,11 +38,11 @@
             "id": 316765950,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-08T13:37:00Z",
-            "open_issues": 19,
+            "last_commit": "2026-09-12T09:49:39Z",
+            "open_issues": 20,
             "owner": "reuseman",
             "repo": "flashcards-obsidian",
-            "stars": 1087,
+            "stars": 1089,
             "topics": [
               "anki",
               "flashcards",
@@ -124,7 +124,7 @@
                 "open_issues": 85,
                 "owner": "akosbalasko",
                 "repo": "yarle",
-                "stars": 1803,
+                "stars": 1804,
                 "topics": [
                   "converter",
                   "desktop-application",
@@ -559,7 +559,7 @@
                 "open_issues": 69,
                 "owner": "jackyzha0",
                 "repo": "quartz",
-                "stars": 13210,
+                "stars": 13215,
                 "topics": [
                   "digital-garden",
                   "networked-thought",
@@ -818,7 +818,7 @@
                 "open_issues": 0,
                 "owner": "masonlr",
                 "repo": "obsidian-starter-templates",
-                "stars": 1039,
+                "stars": 1038,
                 "topics": [
                   "obsidian",
                   "obsidian-md"
@@ -901,7 +901,7 @@
                 "open_issues": 186,
                 "owner": "SilentVoid13",
                 "repo": "Templater",
-                "stars": 5278,
+                "stars": 5280,
                 "topics": [
                   "obsidian-md",
                   "obsidian-plugin"
@@ -925,7 +925,7 @@
                 "open_issues": 186,
                 "owner": "SilentVoid13",
                 "repo": "Templater",
-                "stars": 5278,
+                "stars": 5280,
                 "topics": [
                   "obsidian-md",
                   "obsidian-plugin"
@@ -1486,7 +1486,7 @@
             "open_issues": 165,
             "owner": "kepano",
             "repo": "obsidian-minimal",
-            "stars": 5373,
+            "stars": 5374,
             "topics": [
               "dark-mode",
               "dark-theme",
@@ -1728,7 +1728,7 @@
             "open_issues": 132,
             "owner": "PKM-er",
             "repo": "Blue-Topaz_Obsidian-css",
-            "stars": 1623,
+            "stars": 1624,
             "topics": []
           },
           "first_seen": "2026-08-28T06:53:30.936Z"
@@ -2073,7 +2073,7 @@
             "open_issues": 40,
             "owner": "SlRvb",
             "repo": "Obsidian--ITS-Theme",
-            "stars": 770,
+            "stars": 771,
             "topics": [
               "css-snippets",
               "darkmode",
@@ -2699,7 +2699,7 @@
                 "open_issues": 40,
                 "owner": "community-archive",
                 "repo": "obsidian-style-settings",
-                "stars": 2477,
+                "stars": 2479,
                 "topics": [
                   "obsidian-plugin"
                 ]
@@ -2961,7 +2961,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T01:03:37.992Z",
+    "last_updated": "2026-09-13T00:53:55.201Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶️ Awesome stuff for Obsidian",
@@ -2973,7 +2973,7 @@
       "open_issues": 55,
       "owner": "kmaasrud",
       "repo": "awesome-obsidian",
-      "stars": 9372,
+      "stars": 9374,
       "topics": [
         "awesome",
         "awesome-list",
