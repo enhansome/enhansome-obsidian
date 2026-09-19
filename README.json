@@ -124,7 +124,7 @@
                 "open_issues": 85,
                 "owner": "akosbalasko",
                 "repo": "yarle",
-                "stars": 1805,
+                "stars": 1806,
                 "topics": [
                   "converter",
                   "desktop-application",
@@ -166,7 +166,7 @@
                 "open_issues": 8,
                 "owner": "djsudduth",
                 "repo": "keep-it-markdown",
-                "stars": 704,
+                "stars": 705,
                 "topics": [
                   "apple-notes",
                   "applenotes",
@@ -396,7 +396,7 @@
                 "open_issues": 216,
                 "owner": "deathau",
                 "repo": "markdownload",
-                "stars": 4018,
+                "stars": 4020,
                 "topics": [
                   "chrome-extension",
                   "edge-extension",
@@ -425,7 +425,7 @@
                 "open_issues": 16,
                 "owner": "0x6b",
                 "repo": "copy-selection-as-markdown",
-                "stars": 223,
+                "stars": 224,
                 "topics": [
                   "firefox-addon",
                   "html-to-markdown",
@@ -559,7 +559,7 @@
                 "open_issues": 73,
                 "owner": "jackyzha0",
                 "repo": "quartz",
-                "stars": 13258,
+                "stars": 13263,
                 "topics": [
                   "digital-garden",
                   "networked-thought",
@@ -901,7 +901,7 @@
                 "open_issues": 187,
                 "owner": "SilentVoid13",
                 "repo": "Templater",
-                "stars": 5285,
+                "stars": 5287,
                 "topics": [
                   "obsidian-md",
                   "obsidian-plugin"
@@ -925,7 +925,7 @@
                 "open_issues": 187,
                 "owner": "SilentVoid13",
                 "repo": "Templater",
-                "stars": 5285,
+                "stars": 5287,
                 "topics": [
                   "obsidian-md",
                   "obsidian-plugin"
@@ -1461,7 +1461,7 @@
             "open_issues": 4,
             "owner": "cannibalox",
             "repo": "Obsdn-dark-rmx",
-            "stars": 38,
+            "stars": 39,
             "topics": [
               "css",
               "obsidian",
@@ -1486,7 +1486,7 @@
             "open_issues": 165,
             "owner": "kepano",
             "repo": "obsidian-minimal",
-            "stars": 5382,
+            "stars": 5383,
             "topics": [
               "dark-mode",
               "dark-theme",
@@ -2699,7 +2699,7 @@
                 "open_issues": 40,
                 "owner": "community-archive",
                 "repo": "obsidian-style-settings",
-                "stars": 2489,
+                "stars": 2492,
                 "topics": [
                   "obsidian-plugin"
                 ]
@@ -2918,7 +2918,7 @@
                     "open_issues": 22,
                     "owner": "obsidianmd",
                     "repo": "obsidian-sample-plugin",
-                    "stars": 4526,
+                    "stars": 4530,
                     "topics": [
                       "obsidian",
                       "obsidian-md",
@@ -2944,7 +2944,7 @@
                     "open_issues": 20,
                     "owner": "obsidianmd",
                     "repo": "obsidian-api",
-                    "stars": 2323,
+                    "stars": 2324,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:53:30.936Z"
@@ -2961,7 +2961,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T01:14:06.125Z",
+    "last_updated": "2026-09-19T01:07:41.364Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶️ Awesome stuff for Obsidian",
@@ -2970,10 +2970,10 @@
       "language": "CSS",
       "license": "CC0-1.0",
       "last_commit": "2024-04-06T05:47:06Z",
-      "open_issues": 56,
+      "open_issues": 57,
       "owner": "kmaasrud",
       "repo": "awesome-obsidian",
-      "stars": 9391,
+      "stars": 9395,
       "topics": [
         "awesome",
         "awesome-list",
