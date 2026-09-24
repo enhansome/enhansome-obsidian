@@ -19,7 +19,7 @@
             "open_issues": 166,
             "owner": "ivan-lednev",
             "repo": "obsidian-day-planner",
-            "stars": 2714,
+            "stars": 2716,
             "topics": [
               "obsidian-plugin"
             ]
@@ -42,7 +42,7 @@
             "open_issues": 24,
             "owner": "reuseman",
             "repo": "flashcards-obsidian",
-            "stars": 1092,
+            "stars": 1093,
             "topics": [
               "anki",
               "flashcards",
@@ -396,7 +396,7 @@
                 "open_issues": 216,
                 "owner": "deathau",
                 "repo": "markdownload",
-                "stars": 4023,
+                "stars": 4022,
                 "topics": [
                   "chrome-extension",
                   "edge-extension",
@@ -425,7 +425,7 @@
                 "open_issues": 16,
                 "owner": "0x6b",
                 "repo": "copy-selection-as-markdown",
-                "stars": 224,
+                "stars": 225,
                 "topics": [
                   "firefox-addon",
                   "html-to-markdown",
@@ -556,7 +556,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-20T20:17:23Z",
-                "open_issues": 76,
+                "open_issues": 79,
                 "owner": "jackyzha0",
                 "repo": "quartz",
                 "stars": 13281,
@@ -818,7 +818,7 @@
                 "open_issues": 0,
                 "owner": "masonlr",
                 "repo": "obsidian-starter-templates",
-                "stars": 1037,
+                "stars": 1038,
                 "topics": [
                   "obsidian",
                   "obsidian-md"
@@ -901,7 +901,7 @@
                 "open_issues": 185,
                 "owner": "SilentVoid13",
                 "repo": "Templater",
-                "stars": 5301,
+                "stars": 5303,
                 "topics": [
                   "obsidian-md",
                   "obsidian-plugin"
@@ -925,7 +925,7 @@
                 "open_issues": 185,
                 "owner": "SilentVoid13",
                 "repo": "Templater",
-                "stars": 5301,
+                "stars": 5303,
                 "topics": [
                   "obsidian-md",
                   "obsidian-plugin"
@@ -1486,7 +1486,7 @@
             "open_issues": 166,
             "owner": "kepano",
             "repo": "obsidian-minimal",
-            "stars": 5388,
+            "stars": 5389,
             "topics": [
               "dark-mode",
               "dark-theme",
@@ -1725,7 +1725,7 @@
             "language": "CSS",
             "license": "MIT",
             "last_commit": "2026-08-15T10:48:47Z",
-            "open_issues": 132,
+            "open_issues": 133,
             "owner": "PKM-er",
             "repo": "Blue-Topaz_Obsidian-css",
             "stars": 1631,
@@ -2918,7 +2918,7 @@
                     "open_issues": 22,
                     "owner": "obsidianmd",
                     "repo": "obsidian-sample-plugin",
-                    "stars": 4539,
+                    "stars": 4540,
                     "topics": [
                       "obsidian",
                       "obsidian-md",
@@ -2944,7 +2944,7 @@
                     "open_issues": 20,
                     "owner": "obsidianmd",
                     "repo": "obsidian-api",
-                    "stars": 2326,
+                    "stars": 2327,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:53:30.936Z"
@@ -2961,7 +2961,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T01:26:21.170Z",
+    "last_updated": "2026-09-24T01:19:17.793Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶️ Awesome stuff for Obsidian",
@@ -2973,7 +2973,7 @@
       "open_issues": 60,
       "owner": "kmaasrud",
       "repo": "awesome-obsidian",
-      "stars": 9406,
+      "stars": 9413,
       "topics": [
         "awesome",
         "awesome-list",
