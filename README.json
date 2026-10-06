@@ -21,7 +21,7 @@
                 "open_issues": 167,
                 "owner": "ivan-lednev",
                 "repo": "obsidian-day-planner",
-                "stars": 2720,
+                "stars": 2721,
                 "topics": [
                   "obsidian-plugin"
                 ]
@@ -405,7 +405,7 @@
                     "open_issues": 216,
                     "owner": "deathau",
                     "repo": "markdownload",
-                    "stars": 4032,
+                    "stars": 4033,
                     "topics": [
                       "chrome-extension",
                       "edge-extension",
@@ -568,7 +568,7 @@
                     "open_issues": 86,
                     "owner": "jackyzha0",
                     "repo": "quartz",
-                    "stars": 13327,
+                    "stars": 13330,
                     "topics": [
                       "digital-garden",
                       "networked-thought",
@@ -700,7 +700,7 @@
                     "id": 371990032,
                     "language": "CSS",
                     "license": "MIT",
-                    "last_commit": "2026-10-02T07:45:19Z",
+                    "last_commit": "2026-10-06T08:51:06Z",
                     "open_issues": 4,
                     "owner": "secure-77",
                     "repo": "Perlite",
@@ -1509,7 +1509,7 @@
                 "open_issues": 170,
                 "owner": "kepano",
                 "repo": "obsidian-minimal",
-                "stars": 5403,
+                "stars": 5405,
                 "topics": [
                   "dark-mode",
                   "dark-theme",
@@ -2690,7 +2690,7 @@
                 "open_issues": 10,
                 "owner": "caro401",
                 "repo": "royal-velvet",
-                "stars": 130,
+                "stars": 131,
                 "topics": [
                   "obsidian-md",
                   "obsidian-theme"
@@ -2996,7 +2996,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T02:54:19.325Z",
+    "last_updated": "2026-10-06T11:09:58.387Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶️ Awesome stuff for Obsidian",
@@ -3005,7 +3005,7 @@
       "language": "CSS",
       "license": "CC0-1.0",
       "last_commit": "2024-04-06T05:47:06Z",
-      "open_issues": 61,
+      "open_issues": 60,
       "owner": "kmaasrud",
       "repo": "awesome-obsidian",
       "stars": 9434,
