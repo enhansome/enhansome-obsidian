@@ -118,12 +118,12 @@ A curated list of awesome themes, plugins and more for [Obsidian](https://obsidi
 | :-----------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------: |
 |                  [mdzk](https://github.com/mdzk-rs/mdzk) ⭐ 249 \| 🐛 10 \| 🌐 Rust \| 📅 2026-10-05                 | Zettelkasten system and command line static publishing tool. Aims at full support for Obsidian Markdown.                                                                                                                                                                |                     [mdzk-rs](https://github.com/mdzk-rs) |
 |       [publish](https://github.com/obsidian-userland/publish) ⭐ 270 \| 🐛 4 \| 🌐 TypeScript \| 📅 2024-03-15       | An open-source Obsidian Publish alternative                                                                                                                                                                                                                             | [obsidian-userland](https://github.com/obsidian-userland) |
-|          [quartz](https://github.com/jackyzha0/quartz) ⭐ 13,361 \| 🐛 86 \| 🌐 TypeScript \| 📅 2026-10-04          | Host your own second brain and digital garden                                                                                                                                                                                                                           |                 [jackyzha0](https://github.com/jackyzha0) |
+|          [quartz](https://github.com/jackyzha0/quartz) ⭐ 13,363 \| 🐛 86 \| 🌐 TypeScript \| 📅 2026-10-04          | Host your own second brain and digital garden                                                                                                                                                                                                                           |                 [jackyzha0](https://github.com/jackyzha0) |
 |              [obyde](https://github.com/khalednassar/obyde) ⭐ 69 \| 🐛 0 \| 🌐 Python \| 📅 2026-03-15              | A minimal tool to convert a "standardly" configured Obsidian vault to a Jekyll or Hugo blog.                                                                                                                                                                            |       [Khaled M. Nassar](https://github.com/khalednassar) |
 |  [writeup-converter](https://github.com/Twigonometry/writeup-converter) ⭐ 30 \| 🐛 18 \| 🌐 Python \| 📅 2021-09-21 | Script for grabbing markdown files and Obsidian attachments from one folder and copying them to another. Also contains a 'website formatter' that uses regex to parse markdown headers and links and reformat them to create Jekyll-friendly links and contents tables. |            [Mac Goodwin](https://github.com/Twigonometry) |
 |    [pelican-obsidian](https://github.com/jonathan-s/pelican-obsidian) ⭐ 45 \| 🐛 2 \| 🌐 Python \| 📅 2024-12-30    | Makes it possible to bridge work in obsidian to pelican seamlessly.                                                                                                                                                                                                     |       [Jonathan Sundqvist](https://github.com/jonathan-s) |
 | [yet-another-free-publish-alternative](https://github.com/Mara-Li/yet-another-free-publish-alternative) ⚠️ Archived | A Jekyll digital garden template, optimized for integration with Obsidian. It aims to enhance discoverability and help you build a personal knowledge base that can scale with time.                                                                                    |                     [Mara Li](https://github.com/Mara-Li) |
-|              [Perlite](https://github.com/secure-77/Perlite) ⭐ 1,988 \| 🐛 4 \| 🌐 CSS \| 📅 2026-10-06             | A webbased markdown viewer optimized for Obsidian                                                                                                                                                                                                                       |                 [secure-77](https://github.com/secure-77) |
+|              [Perlite](https://github.com/secure-77/Perlite) ⭐ 1,989 \| 🐛 4 \| 🌐 CSS \| 📅 2026-10-06             | A webbased markdown viewer optimized for Obsidian                                                                                                                                                                                                                       |                 [secure-77](https://github.com/secure-77) |
 
 ***
 
@@ -160,7 +160,7 @@ A curated list of awesome themes, plugins and more for [Obsidian](https://obsidi
 |                                                                                    Name                                                                                    | Description                                                                                                                                     |                                                    Credits |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------: |
 |                                 [Obsidian Templates](https://github.com/chetachiezikeuzor/Obsidian-Templates) ⭐ 96 \| 🐛 0 \| 📅 2021-06-09                                | Few templates, such as admonitions, chess plays, clipboard and others                                                                           | [Chetachi Ezikeuzor](https://github.com/chetachiezikeuzor) |
-| [Template Showcase for Templater](https://github.com/SilentVoid13/Templater/discussions/categories/templates-showcase) ⭐ 5,336 \| 🐛 188 \| 🌐 TypeScript \| 📅 2026-10-02 | Templates for [Templater](https://github.com/SilentVoid13/Templater) ⭐ 5,336 \| 🐛 188 \| 🌐 TypeScript \| 📅 2026-10-02 made by its community. |                                        Templater Community |
+| [Template Showcase for Templater](https://github.com/SilentVoid13/Templater/discussions/categories/templates-showcase) ⭐ 5,337 \| 🐛 188 \| 🌐 TypeScript \| 📅 2026-10-02 | Templates for [Templater](https://github.com/SilentVoid13/Templater) ⭐ 5,337 \| 🐛 188 \| 🌐 TypeScript \| 📅 2026-10-02 made by its community. |                                        Templater Community |
 
 </details>
 
@@ -313,7 +313,7 @@ Adds custom icons for files and folders. Please read the comments in the `.css` 
 
 [📁 custom-icons-differing-files-and-folders.css](code/css-snippets/custom-icons-differing-files-and-folders.css)
 
-[📁 IcoMoon.io Free Version](https://github.com/Keyamoon/IcoMoon-Free/archive/master.zip) ⭐ 1,309 | 🐛 13 | 🌐 HTML | 📅 2016-03-13
+[📁 IcoMoon.io Free Version](https://github.com/Keyamoon/IcoMoon-Free/archive/master.zip) ⭐ 1,308 | 🐛 13 | 🌐 HTML | 📅 2016-03-13
 
 ***
 
@@ -420,8 +420,8 @@ Most themes should be available through the `Appearance` => `Community themes` i
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------: |
 |                         [kognise/obsidian-atom](https://github.com/kognise/obsidian-atom) ⭐ 276 \| 🐛 16 \| 🌐 CSS \| 📅 2026-03-30                         |                           ![Atom](https://raw.githubusercontent.com/kognise/obsidian-atom/master/screenshot-hybrid.png)                          |
 |                   [cotemaxime/obsidian-amethyst](https://github.com/cotemaxime/obsidian-amethyst) ⭐ 17 \| 🐛 3 \| 🌐 CSS \| 📅 2021-08-12                   |                         ![Amethyst](https://raw.githubusercontent.com/cotemaxime/obsidian-amethyst/master/screenshot.png)                        |
-|                      [insanum/obsidian\_gruvbox](https://github.com/insanum/obsidian_gruvbox) ⭐ 202 \| 🐛 9 \| 🌐 CSS \| 📅 2024-08-01                      |                          ![Obsidian gruvbox](https://raw.githubusercontent.com/insanum/obsidian_gruvbox/master/dark.png)                         |
-|                         [insanum/obsidian\_nord](https://github.com/insanum/obsidian_nord) ⭐ 310 \| 🐛 14 \| 🌐 CSS \| 📅 2024-06-10                        |                            ![Obsidian Nord](https://raw.githubusercontent.com/insanum/obsidian_nord/master/screen.png)                           |
+|                      [insanum/obsidian\_gruvbox](https://github.com/insanum/obsidian_gruvbox) ⭐ 203 \| 🐛 9 \| 🌐 CSS \| 📅 2024-08-01                      |                          ![Obsidian gruvbox](https://raw.githubusercontent.com/insanum/obsidian_gruvbox/master/dark.png)                         |
+|                         [insanum/obsidian\_nord](https://github.com/insanum/obsidian_nord) ⭐ 310 \| 🐛 15 \| 🌐 CSS \| 📅 2024-06-10                        |                            ![Obsidian Nord](https://raw.githubusercontent.com/insanum/obsidian_nord/master/screen.png)                           |
 |               [jarodise/Dracula-for-Obsidian.md](https://github.com/jarodise/Dracula-for-Obsidian.md) ⭐ 172 \| 🐛 7 \| 🌐 CSS \| 📅 2026-02-01              |                 ![Dracula for Obsidian](https://raw.githubusercontent.com/jarodise/Dracula-for-Obsidian.md/master/screencap.jpg)                 |
 |             [chad-bennett/warmth-obsidian-theme](https://github.com/chad-bennett/warmth-obsidian-theme) ⭐ 38 \| 🐛 3 \| 🌐 CSS \| 📅 2021-08-20             |                         ![Warmth](https://raw.githubusercontent.com/chad-bennett/warmth-obsidian-theme/master/warmth.jpg)                        |
 |            [dogwaddle/obsidian-gastown-theme.md](https://github.com/dogwaddle/obsidian-gastown-theme.md) ⭐ 34 \| 🐛 2 \| 🌐 CSS \| 📅 2021-08-30            |                     ![Gastown](https://raw.githubusercontent.com/dogwaddle/obsidian-gastown-theme.md/master/ObsidianOne.png)                     |
@@ -442,7 +442,7 @@ Most themes should be available through the `Appearance` => `Community themes` i
 |             [elliotboyd/obsidian-traffic-lights](https://github.com/elliotboyd/obsidian-traffic-lights) ⭐ 50 \| 🐛 4 \| 🌐 CSS \| 📅 2020-06-18             |                      ![Traffic Lights](https://raw.githubusercontent.com/elliotboyd/obsidian-traffic-lights/master/dark.png)                     |
 |            [mediapathic/obsidian-arsmagna-theme](https://github.com/mediapathic/obsidian-arsmagna-theme) ⭐ 60 \| 🐛 0 \| 🌐 CSS \| 📅 2021-03-18            |                      ![Ars Magna](https://raw.githubusercontent.com/mediapathic/obsidian-arsmagna-theme/master/arsmagna.png)                     |
 |                      [cannibalox/Obsdn-dark-rmx](https://github.com/cannibalox/Obsdn-dark-rmx) ⭐ 39 \| 🐛 4 \| 🌐 CSS \| 📅 2020-09-22                      |                     ![Obsdn-Dark-Rmx](https://raw.githubusercontent.com/cannibalox/Obsdn-dark-rmx/master/Obsdn-Dark-Rmx.png)                     |
-|                      [kepano/obsidian-minimal](https://github.com/kepano/obsidian-minimal) ⭐ 5,419 \| 🐛 171 \| 🌐 CSS \| 📅 2026-10-06                     |                           ![Minimal](https://raw.githubusercontent.com/kepano/obsidian-minimal/master/dark-simple.png)                           |
+|                      [kepano/obsidian-minimal](https://github.com/kepano/obsidian-minimal) ⭐ 5,422 \| 🐛 172 \| 🌐 CSS \| 📅 2026-10-06                     |                           ![Minimal](https://raw.githubusercontent.com/kepano/obsidian-minimal/master/dark-simple.png)                           |
 |                              [rcvd/obsidian\_ia](https://github.com/rcvd/obsidian_ia) ⭐ 117 \| 🐛 8 \| 🌐 CSS \| 📅 2021-11-14                              |                               ![obsidian\_ia](https://raw.githubusercontent.com/rcvd/obsidian_ia/master/light.png)                               |
 |               [bcdavasconcelos/Obsidian-Charcoal](https://github.com/bcdavasconcelos/Obsidian-Charcoal) ⭐ 8 \| 🐛 2 \| 🌐 CSS \| 📅 2022-02-13              |                       ![Charcoal](https://raw.githubusercontent.com/bcdavasconcelos/Obsidian-Charcoal/master/charcoal.png)                       |
 |            [bcdavasconcelos/Obsidian-Panic\_Mode](https://github.com/bcdavasconcelos/Obsidian-Panic_Mode) ⭐ 6 \| 🐛 0 \| 🌐 CSS \| 📅 2022-02-13            |                       ![Panic Mode](https://raw.githubusercontent.com/bcdavasconcelos/Obsidian-Panic_Mode/master/panic.png)                      |
@@ -453,7 +453,7 @@ Most themes should be available through the `Appearance` => `Community themes` i
 |             [bcdavasconcelos/Obsidian-GDCT\_Dark](https://github.com/bcdavasconcelos/Obsidian-GDCT_Dark) ⭐ 3 \| 🐛 0 \| 🌐 CSS \| 📅 2022-02-13             |                        ![GDCT Dark](https://raw.githubusercontent.com/bcdavasconcelos/Obsidian-GDCT_Dark/master/gdct.png)                        |
 |        [DubininDmitry/Obuntu-theme-for-Obsidian](https://github.com/DubininDmitry/Obuntu-theme-for-Obsidian) ⭐ 26 \| 🐛 1 \| 🌐 CSS \| 📅 2025-06-27        |                    ![Obuntu](https://raw.githubusercontent.com/DubininDmitry/Obuntu-theme-for-Obsidian/master/screenshot.jpg)                    |
 |                    [cannibalox/ono-sendai\_obsdn](https://github.com/cannibalox/ono-sendai_obsdn) ⭐ 55 \| 🐛 7 \| 🌐 CSS \| 📅 2024-06-20                   |                    ![Ono Sendai](https://raw.githubusercontent.com/cannibalox/ono-sendai_obsdn/master/ono-sendai_obsdn_00.png)                   |
-|           [whyt-byte/Blue-Topaz\_Obsidian-css](https://github.com/whyt-byte/Blue-Topaz_Obsidian-css) ⭐ 1,637 \| 🐛 136 \| 🌐 CSS \| 📅 2026-08-15           |                ![Blue Topaz](https://raw.githubusercontent.com/whyt-byte/Blue-Topaz_Obsidian-css/master/preview_Blue%20Topaz.png)                |
+|           [whyt-byte/Blue-Topaz\_Obsidian-css](https://github.com/whyt-byte/Blue-Topaz_Obsidian-css) ⭐ 1,639 \| 🐛 136 \| 🌐 CSS \| 📅 2026-08-15           |                ![Blue Topaz](https://raw.githubusercontent.com/whyt-byte/Blue-Topaz_Obsidian-css/master/preview_Blue%20Topaz.png)                |
 |            [santiyounger/Reverie-Obsidian-Theme](https://github.com/santiyounger/Reverie-Obsidian-Theme) ⭐ 30 \| 🐛 0 \| 🌐 CSS \| 📅 2026-05-22            |             ![Reverie](https://raw.githubusercontent.com/santiyounger/Reverie-Obsidian-Theme/master/img/reverie-2020-09-14-dark.png)             |
 |        [ryjjin/Obsidian-Dark-Graphite-Pie-theme](https://github.com/ryjjin/Obsidian-Dark-Graphite-Pie-theme) ⭐ 17 \| 🐛 0 \| 🌐 CSS \| 📅 2026-02-10        | ![Dark Graphite Pie](https://raw.githubusercontent.com/ryjjin/Obsidian-Dark-Graphite-Pie-theme/master/Dark%20Graphite%20Pie%20theme%200.9.4.png) |
 |                [bennyxguo/Obsidian-Obsidianite](https://github.com/bennyxguo/Obsidian-Obsidianite) ⭐ 376 \| 🐛 26 \| 🌐 CSS \| 📅 2024-02-26                |                     ![Obsidianite](https://raw.githubusercontent.com/bennyxguo/Obsidian-Obsidianite/master/images/demo1.png)                     |
@@ -507,7 +507,7 @@ Most themes should be available through the `Appearance` => `Community themes` i
 
 ## Creating Themes
 
-* [obsidian-style-settings:](https://github.com/mgmeyers/obsidian-style-settings) ⭐ 2,523 | 🐛 41 | 🌐 TypeScript | 📅 2026-07-13  allows snippet, theme, and plugin CSS files to define a set of configuration options. It then allows users to see all the tweakable settings in one settings pane.
+* [obsidian-style-settings:](https://github.com/mgmeyers/obsidian-style-settings) ⭐ 2,527 | 🐛 41 | 🌐 TypeScript | 📅 2026-07-13  allows snippet, theme, and plugin CSS files to define a set of configuration options. It then allows users to see all the tweakable settings in one settings pane.
 * [#custom-css at Obsidian Forum](https://forum.obsidian.md/tag/custom-css)
   * [Getting comfortable with Obsidian CSS](https://forum.obsidian.md/t/getting-comfortable-with-obsidian-css/133)
   * [Common Selectors for Custom CSS](https://forum.obsidian.md/t/common-selectors-for-custom-css/1984)
@@ -517,7 +517,7 @@ Most themes should be available through the `Appearance` => `Community themes` i
 
 ## Creating Plugins
 
-* [obsidian-tools:](https://github.com/obsidian-tools/obsidian-tools) ⭐ 310 | 🐛 19 | 🌐 TypeScript | 📅 2026-09-15 an unofficial collection of tools that helps devs build plugins for obsidian.
+* [obsidian-tools:](https://github.com/obsidian-tools/obsidian-tools) ⭐ 311 | 🐛 19 | 🌐 TypeScript | 📅 2026-09-15 an unofficial collection of tools that helps devs build plugins for obsidian.
 * [obsidian-daily-notes-interface:](https://github.com/liamcain/obsidian-daily-notes-interface) ⭐ 110 | 🐛 13 | 🌐 TypeScript | 📅 2026-05-13 a collection of utility functions for working with dates and daily notes in Obsidian plugins.
 * [obsidian-rust-plugin:](https://github.com/trashhalo/obsidian-rust-plugin) ⭐ 108 | 🐛 2 | 🌐 Rust | 📅 2021-03-20 boilerplate needed to write obsidian plugins in rust!
 * [obsidian-dev-tools:](https://github.com/KjellConnelly/obsidian-dev-tools) ⭐ 65 | 🐛 7 | 🌐 TypeScript | 📅 2021-08-21  allows for a modified console (useful for debugging on mobile), and viewing all Obsidian icons/strings.
@@ -533,7 +533,7 @@ Most themes should be available through the `Appearance` => `Community themes` i
   * [List of available icons](https://forum.obsidian.md/t/list-of-available-icons-for-component-seticon/16332/4)
   * [Alpha Plugin List](https://forum.obsidian.md/t/meta-alpha-plugin-list-0-9-7/7736)
 * [Obsidian at GitHub](https://github.com/obsidianmd)
-  * [Obsidian Sample Plugin](https://github.com/obsidianmd/obsidian-sample-plugin) ⭐ 4,553 | 🐛 23 | 🌐 TypeScript | 📅 2026-08-02
+  * [Obsidian Sample Plugin](https://github.com/obsidianmd/obsidian-sample-plugin) ⭐ 4,554 | 🐛 23 | 🌐 TypeScript | 📅 2026-08-02
   * [Obsidian API](https://github.com/obsidianmd/obsidian-api) ⭐ 2,335 | 🐛 20 | 📅 2026-10-05
 * [Liam Cain's Obsidian API FAQ](https://liamca.in/Obsidian/API+FAQ/index)
 * [#obsidian-md at GitHub](https://github.com/topics/obsidian-md)
@@ -544,4 +544,4 @@ Most themes should be available through the `Appearance` => `Community themes` i
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
