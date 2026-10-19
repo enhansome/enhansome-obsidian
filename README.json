@@ -175,7 +175,7 @@
                     "open_issues": 9,
                     "owner": "djsudduth",
                     "repo": "keep-it-markdown",
-                    "stars": 708,
+                    "stars": 709,
                     "topics": [
                       "apple-notes",
                       "applenotes",
@@ -405,7 +405,7 @@
                     "open_issues": 216,
                     "owner": "deathau",
                     "repo": "markdownload",
-                    "stars": 4040,
+                    "stars": 4043,
                     "topics": [
                       "chrome-extension",
                       "edge-extension",
@@ -565,10 +565,10 @@
                     "language": "TypeScript",
                     "license": "MIT",
                     "last_commit": "2026-10-04T20:13:44Z",
-                    "open_issues": 89,
+                    "open_issues": 88,
                     "owner": "jackyzha0",
                     "repo": "quartz",
-                    "stars": 13409,
+                    "stars": 13415,
                     "topics": [
                       "digital-garden",
                       "networked-thought",
@@ -917,7 +917,7 @@
                     "open_issues": 188,
                     "owner": "SilentVoid13",
                     "repo": "Templater",
-                    "stars": 5354,
+                    "stars": 5356,
                     "topics": [
                       "obsidian-md",
                       "obsidian-plugin"
@@ -941,7 +941,7 @@
                     "open_issues": 188,
                     "owner": "SilentVoid13",
                     "repo": "Templater",
-                    "stars": 5354,
+                    "stars": 5356,
                     "topics": [
                       "obsidian-md",
                       "obsidian-plugin"
@@ -1509,7 +1509,7 @@
                 "open_issues": 173,
                 "owner": "kepano",
                 "repo": "obsidian-minimal",
-                "stars": 5438,
+                "stars": 5442,
                 "topics": [
                   "dark-mode",
                   "dark-theme",
@@ -1751,7 +1751,7 @@
                 "open_issues": 136,
                 "owner": "PKM-er",
                 "repo": "Blue-Topaz_Obsidian-css",
-                "stars": 1642,
+                "stars": 1643,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:53:30.936Z"
@@ -1817,7 +1817,7 @@
                 "open_issues": 26,
                 "owner": "bennyxguo",
                 "repo": "Obsidian-Obsidianite",
-                "stars": 378,
+                "stars": 379,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:53:30.936Z"
@@ -2093,7 +2093,7 @@
                 "language": "SCSS",
                 "license": "GPL-2.0",
                 "last_commit": "2026-09-13T12:47:53Z",
-                "open_issues": 37,
+                "open_issues": 38,
                 "owner": "SlRvb",
                 "repo": "Obsidian--ITS-Theme",
                 "stars": 778,
@@ -2726,10 +2726,10 @@
                     "language": "TypeScript",
                     "license": "GPL-3.0",
                     "last_commit": "2026-07-13T23:32:02Z",
-                    "open_issues": 41,
+                    "open_issues": 43,
                     "owner": "community-archive",
                     "repo": "obsidian-style-settings",
-                    "stars": 2531,
+                    "stars": 2533,
                     "topics": [
                       "obsidian-plugin"
                     ]
@@ -2948,7 +2948,7 @@
                         "open_issues": 23,
                         "owner": "obsidianmd",
                         "repo": "obsidian-sample-plugin",
-                        "stars": 4567,
+                        "stars": 4569,
                         "topics": [
                           "obsidian",
                           "obsidian-md",
@@ -2971,7 +2971,7 @@
                         "language": null,
                         "license": "MIT",
                         "last_commit": "2026-10-05T19:06:25Z",
-                        "open_issues": 20,
+                        "open_issues": 21,
                         "owner": "obsidianmd",
                         "repo": "obsidian-api",
                         "stars": 2339,
@@ -2996,7 +2996,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T00:55:18.274Z",
+    "last_updated": "2026-10-19T01:07:32.249Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶️ Awesome stuff for Obsidian",
@@ -3008,7 +3008,7 @@
       "open_issues": 61,
       "owner": "kmaasrud",
       "repo": "awesome-obsidian",
-      "stars": 9459,
+      "stars": 9462,
       "topics": [
         "awesome",
         "awesome-list",
