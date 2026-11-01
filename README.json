@@ -40,11 +40,11 @@
                 "id": 316765950,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-21T20:23:08Z",
-                "open_issues": 33,
+                "last_commit": "2026-10-31T13:26:26Z",
+                "open_issues": 34,
                 "owner": "reuseman",
                 "repo": "flashcards-obsidian",
-                "stars": 1112,
+                "stars": 1113,
                 "topics": [
                   "anki",
                   "flashcards",
@@ -405,7 +405,7 @@
                     "open_issues": 216,
                     "owner": "deathau",
                     "repo": "markdownload",
-                    "stars": 4052,
+                    "stars": 4053,
                     "topics": [
                       "chrome-extension",
                       "edge-extension",
@@ -565,10 +565,10 @@
                     "language": "TypeScript",
                     "license": "MIT",
                     "last_commit": "2026-10-25T20:13:53Z",
-                    "open_issues": 90,
+                    "open_issues": 91,
                     "owner": "jackyzha0",
                     "repo": "quartz",
-                    "stars": 13495,
+                    "stars": 13502,
                     "topics": [
                       "digital-garden",
                       "networked-thought",
@@ -704,7 +704,7 @@
                     "open_issues": 4,
                     "owner": "secure-77",
                     "repo": "Perlite",
-                    "stars": 1997,
+                    "stars": 1996,
                     "topics": [
                       "markdown",
                       "obsidian",
@@ -834,7 +834,7 @@
                     "open_issues": 0,
                     "owner": "masonlr",
                     "repo": "obsidian-starter-templates",
-                    "stars": 1044,
+                    "stars": 1045,
                     "topics": [
                       "obsidian",
                       "obsidian-md"
@@ -1509,7 +1509,7 @@
                 "open_issues": 177,
                 "owner": "kepano",
                 "repo": "obsidian-minimal",
-                "stars": 5465,
+                "stars": 5466,
                 "topics": [
                   "dark-mode",
                   "dark-theme",
@@ -2836,6 +2836,29 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "obsidian-calendar-ui:",
+                  "description": "provides an out-of-the-box calendar view for Obsidian plugins.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "The UI that powers the obsidian-calendar-plugin",
+                    "homepage": null,
+                    "id": 323795885,
+                    "language": "Svelte",
+                    "license": "MIT",
+                    "last_commit": "2023-09-17T14:12:45Z",
+                    "open_issues": 5,
+                    "owner": "liamcain",
+                    "repo": "obsidian-calendar-ui",
+                    "stars": 39,
+                    "topics": [
+                      "obsidian-md"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T06:53:30.936Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "obsidian-plugin-template",
                   "description": "a plugin template customized with a nicer directory structure and some additional tool (like featuring automatic releases with Github's Actions).",
                   "children": [],
@@ -2854,29 +2877,6 @@
                     "topics": [
                       "obsidian-md",
                       "obsidian-plugin"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T06:53:30.936Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "obsidian-calendar-ui:",
-                  "description": "provides an out-of-the-box calendar view for Obsidian plugins.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "The UI that powers the obsidian-calendar-plugin",
-                    "homepage": null,
-                    "id": 323795885,
-                    "language": "Svelte",
-                    "license": "MIT",
-                    "last_commit": "2023-09-17T14:12:45Z",
-                    "open_issues": 5,
-                    "owner": "liamcain",
-                    "repo": "obsidian-calendar-ui",
-                    "stars": 38,
-                    "topics": [
-                      "obsidian-md"
                     ]
                   },
                   "first_seen": "2026-08-28T06:53:30.936Z"
@@ -2974,7 +2974,7 @@
                         "open_issues": 22,
                         "owner": "obsidianmd",
                         "repo": "obsidian-api",
-                        "stars": 2348,
+                        "stars": 2349,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T06:53:30.936Z"
@@ -2996,7 +2996,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T02:16:06.258Z",
+    "last_updated": "2026-11-01T02:07:38.096Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶️ Awesome stuff for Obsidian",
@@ -3008,7 +3008,7 @@
       "open_issues": 69,
       "owner": "kmaasrud",
       "repo": "awesome-obsidian",
-      "stars": 9510,
+      "stars": 9511,
       "topics": [
         "awesome",
         "awesome-list",
