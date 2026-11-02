@@ -21,7 +21,7 @@
                 "open_issues": 167,
                 "owner": "ivan-lednev",
                 "repo": "obsidian-day-planner",
-                "stars": 2735,
+                "stars": 2736,
                 "topics": [
                   "obsidian-plugin"
                 ]
@@ -133,7 +133,7 @@
                     "open_issues": 94,
                     "owner": "akosbalasko",
                     "repo": "yarle",
-                    "stars": 1816,
+                    "stars": 1815,
                     "topics": [
                       "converter",
                       "desktop-application",
@@ -564,11 +564,11 @@
                     "id": 387213208,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-25T20:13:53Z",
-                    "open_issues": 91,
+                    "last_commit": "2026-11-01T20:20:02Z",
+                    "open_issues": 90,
                     "owner": "jackyzha0",
                     "repo": "quartz",
-                    "stars": 13502,
+                    "stars": 13511,
                     "topics": [
                       "digital-garden",
                       "networked-thought",
@@ -704,7 +704,7 @@
                     "open_issues": 4,
                     "owner": "secure-77",
                     "repo": "Perlite",
-                    "stars": 1996,
+                    "stars": 1997,
                     "topics": [
                       "markdown",
                       "obsidian",
@@ -1506,10 +1506,10 @@
                 "language": "CSS",
                 "license": "MIT",
                 "last_commit": "2026-10-06T22:06:26Z",
-                "open_issues": 177,
+                "open_issues": 179,
                 "owner": "kepano",
                 "repo": "obsidian-minimal",
-                "stars": 5466,
+                "stars": 5470,
                 "topics": [
                   "dark-mode",
                   "dark-theme",
@@ -1751,7 +1751,7 @@
                 "open_issues": 127,
                 "owner": "PKM-er",
                 "repo": "Blue-Topaz_Obsidian-css",
-                "stars": 1648,
+                "stars": 1649,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:53:30.936Z"
@@ -2096,7 +2096,7 @@
                 "open_issues": 41,
                 "owner": "SlRvb",
                 "repo": "Obsidian--ITS-Theme",
-                "stars": 779,
+                "stars": 780,
                 "topics": [
                   "css-snippets",
                   "darkmode",
@@ -2663,7 +2663,7 @@
                 "open_issues": 2,
                 "owner": "chrisgrieser",
                 "repo": "shimmering-focus",
-                "stars": 648,
+                "stars": 649,
                 "topics": [
                   "dark-theme",
                   "light-theme",
@@ -2729,7 +2729,7 @@
                     "open_issues": 45,
                     "owner": "community-archive",
                     "repo": "obsidian-style-settings",
-                    "stars": 2561,
+                    "stars": 2562,
                     "topics": [
                       "obsidian-plugin"
                     ]
@@ -2948,7 +2948,7 @@
                         "open_issues": 23,
                         "owner": "obsidianmd",
                         "repo": "obsidian-sample-plugin",
-                        "stars": 4605,
+                        "stars": 4609,
                         "topics": [
                           "obsidian",
                           "obsidian-md",
@@ -2996,7 +2996,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T02:07:38.096Z",
+    "last_updated": "2026-11-02T02:22:57.254Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶️ Awesome stuff for Obsidian",
@@ -3008,7 +3008,7 @@
       "open_issues": 69,
       "owner": "kmaasrud",
       "repo": "awesome-obsidian",
-      "stars": 9511,
+      "stars": 9512,
       "topics": [
         "awesome",
         "awesome-list",
