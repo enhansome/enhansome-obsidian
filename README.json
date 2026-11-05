@@ -21,7 +21,7 @@
                 "open_issues": 168,
                 "owner": "ivan-lednev",
                 "repo": "obsidian-day-planner",
-                "stars": 2737,
+                "stars": 2736,
                 "topics": [
                   "obsidian-plugin"
                 ]
@@ -44,7 +44,7 @@
                 "open_issues": 34,
                 "owner": "reuseman",
                 "repo": "flashcards-obsidian",
-                "stars": 1113,
+                "stars": 1114,
                 "topics": [
                   "anki",
                   "flashcards",
@@ -107,7 +107,7 @@
                     "open_issues": 4,
                     "owner": "connertennery",
                     "repo": "Notion-to-Obsidian-Converter",
-                    "stars": 1085,
+                    "stars": 1084,
                     "topics": [
                       "markdown-converter",
                       "notion",
@@ -171,11 +171,11 @@
                     "id": 306197249,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-03T02:00:25Z",
+                    "last_commit": "2026-11-05T01:53:37Z",
                     "open_issues": 9,
                     "owner": "djsudduth",
                     "repo": "keep-it-markdown",
-                    "stars": 712,
+                    "stars": 713,
                     "topics": [
                       "apple-notes",
                       "applenotes",
@@ -405,7 +405,7 @@
                     "open_issues": 216,
                     "owner": "deathau",
                     "repo": "markdownload",
-                    "stars": 4055,
+                    "stars": 4054,
                     "topics": [
                       "chrome-extension",
                       "edge-extension",
@@ -434,7 +434,7 @@
                     "open_issues": 18,
                     "owner": "0x6b",
                     "repo": "copy-selection-as-markdown",
-                    "stars": 226,
+                    "stars": 227,
                     "topics": [
                       "firefox-addon",
                       "html-to-markdown",
@@ -568,7 +568,7 @@
                     "open_issues": 91,
                     "owner": "jackyzha0",
                     "repo": "quartz",
-                    "stars": 13519,
+                    "stars": 13527,
                     "topics": [
                       "digital-garden",
                       "networked-thought",
@@ -1506,10 +1506,10 @@
                 "language": "CSS",
                 "license": "MIT",
                 "last_commit": "2026-10-06T22:06:26Z",
-                "open_issues": 179,
+                "open_issues": 180,
                 "owner": "kepano",
                 "repo": "obsidian-minimal",
-                "stars": 5477,
+                "stars": 5479,
                 "topics": [
                   "dark-mode",
                   "dark-theme",
@@ -2663,7 +2663,7 @@
                 "open_issues": 2,
                 "owner": "chrisgrieser",
                 "repo": "shimmering-focus",
-                "stars": 650,
+                "stars": 651,
                 "topics": [
                   "dark-theme",
                   "light-theme",
@@ -2729,7 +2729,7 @@
                     "open_issues": 45,
                     "owner": "community-archive",
                     "repo": "obsidian-style-settings",
-                    "stars": 2566,
+                    "stars": 2569,
                     "topics": [
                       "obsidian-plugin"
                     ]
@@ -2948,7 +2948,7 @@
                         "open_issues": 23,
                         "owner": "obsidianmd",
                         "repo": "obsidian-sample-plugin",
-                        "stars": 4611,
+                        "stars": 4610,
                         "topics": [
                           "obsidian",
                           "obsidian-md",
@@ -2996,7 +2996,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T02:58:53.360Z",
+    "last_updated": "2026-11-05T03:26:23.978Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶️ Awesome stuff for Obsidian",
