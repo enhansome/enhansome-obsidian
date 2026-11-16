@@ -21,7 +21,7 @@
                 "open_issues": 169,
                 "owner": "ivan-lednev",
                 "repo": "obsidian-day-planner",
-                "stars": 2739,
+                "stars": 2740,
                 "topics": [
                   "obsidian-plugin"
                 ]
@@ -41,10 +41,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-31T13:26:26Z",
-                "open_issues": 35,
+                "open_issues": 36,
                 "owner": "reuseman",
                 "repo": "flashcards-obsidian",
-                "stars": 1116,
+                "stars": 1117,
                 "topics": [
                   "anki",
                   "flashcards",
@@ -564,11 +564,11 @@
                     "id": 387213208,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-11-10T20:00:00Z",
-                    "open_issues": 70,
+                    "last_commit": "2026-11-15T20:13:41Z",
+                    "open_issues": 72,
                     "owner": "jackyzha0",
                     "repo": "quartz",
-                    "stars": 13589,
+                    "stars": 13593,
                     "topics": [
                       "digital-garden",
                       "networked-thought",
@@ -914,7 +914,7 @@
                     "language": "TypeScript",
                     "license": "AGPL-3.0",
                     "last_commit": "2026-11-09T03:53:01Z",
-                    "open_issues": 189,
+                    "open_issues": 190,
                     "owner": "SilentVoid13",
                     "repo": "Templater",
                     "stars": 5400,
@@ -938,7 +938,7 @@
                     "language": "TypeScript",
                     "license": "AGPL-3.0",
                     "last_commit": "2026-11-09T03:53:01Z",
-                    "open_issues": 189,
+                    "open_issues": 190,
                     "owner": "SilentVoid13",
                     "repo": "Templater",
                     "stars": 5400,
@@ -1421,7 +1421,7 @@
                 "open_issues": 7,
                 "owner": "GuangluWu",
                 "repo": "obsidian-pisum",
-                "stars": 45,
+                "stars": 44,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:53:30.936Z"
@@ -1509,7 +1509,7 @@
                 "open_issues": 181,
                 "owner": "kepano",
                 "repo": "obsidian-minimal",
-                "stars": 5664,
+                "stars": 5678,
                 "topics": [
                   "dark-mode",
                   "dark-theme",
@@ -2726,7 +2726,7 @@
                     "language": "TypeScript",
                     "license": "GPL-3.0",
                     "last_commit": "2026-07-13T23:32:02Z",
-                    "open_issues": 45,
+                    "open_issues": 46,
                     "owner": "community-archive",
                     "repo": "obsidian-style-settings",
                     "stars": 2591,
@@ -2948,7 +2948,7 @@
                         "open_issues": 23,
                         "owner": "obsidianmd",
                         "repo": "obsidian-sample-plugin",
-                        "stars": 4697,
+                        "stars": 4707,
                         "topics": [
                           "obsidian",
                           "obsidian-md",
@@ -2996,7 +2996,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T02:33:35.044Z",
+    "last_updated": "2026-11-16T02:41:04.362Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶️ Awesome stuff for Obsidian",
@@ -3008,7 +3008,7 @@
       "open_issues": 70,
       "owner": "kmaasrud",
       "repo": "awesome-obsidian",
-      "stars": 9534,
+      "stars": 9536,
       "topics": [
         "awesome",
         "awesome-list",
