@@ -21,7 +21,7 @@
                 "open_issues": 170,
                 "owner": "ivan-lednev",
                 "repo": "obsidian-day-planner",
-                "stars": 2742,
+                "stars": 2743,
                 "topics": [
                   "obsidian-plugin"
                 ]
@@ -44,7 +44,7 @@
                 "open_issues": 37,
                 "owner": "reuseman",
                 "repo": "flashcards-obsidian",
-                "stars": 1121,
+                "stars": 1122,
                 "topics": [
                   "anki",
                   "flashcards",
@@ -405,7 +405,7 @@
                     "open_issues": 215,
                     "owner": "deathau",
                     "repo": "markdownload",
-                    "stars": 4062,
+                    "stars": 4063,
                     "topics": [
                       "chrome-extension",
                       "edge-extension",
@@ -564,11 +564,11 @@
                     "id": 387213208,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-11-23T14:57:16Z",
-                    "open_issues": 33,
+                    "last_commit": "2026-11-25T01:21:18Z",
+                    "open_issues": 35,
                     "owner": "jackyzha0",
                     "repo": "quartz",
-                    "stars": 13623,
+                    "stars": 13628,
                     "topics": [
                       "digital-garden",
                       "networked-thought",
@@ -701,10 +701,10 @@
                     "language": "CSS",
                     "license": "MIT",
                     "last_commit": "2026-10-21T17:16:54Z",
-                    "open_issues": 4,
+                    "open_issues": 6,
                     "owner": "secure-77",
                     "repo": "Perlite",
-                    "stars": 2000,
+                    "stars": 2001,
                     "topics": [
                       "markdown",
                       "obsidian",
@@ -834,7 +834,7 @@
                     "open_issues": 0,
                     "owner": "masonlr",
                     "repo": "obsidian-starter-templates",
-                    "stars": 1046,
+                    "stars": 1047,
                     "topics": [
                       "obsidian",
                       "obsidian-md"
@@ -917,7 +917,7 @@
                     "open_issues": 192,
                     "owner": "SilentVoid13",
                     "repo": "Templater",
-                    "stars": 5411,
+                    "stars": 5414,
                     "topics": [
                       "obsidian-md",
                       "obsidian-plugin"
@@ -941,7 +941,7 @@
                     "open_issues": 192,
                     "owner": "SilentVoid13",
                     "repo": "Templater",
-                    "stars": 5411,
+                    "stars": 5414,
                     "topics": [
                       "obsidian-md",
                       "obsidian-plugin"
@@ -1509,7 +1509,7 @@
                 "open_issues": 182,
                 "owner": "kepano",
                 "repo": "obsidian-minimal",
-                "stars": 5723,
+                "stars": 5749,
                 "topics": [
                   "dark-mode",
                   "dark-theme",
@@ -2948,7 +2948,7 @@
                         "open_issues": 23,
                         "owner": "obsidianmd",
                         "repo": "obsidian-sample-plugin",
-                        "stars": 4731,
+                        "stars": 4749,
                         "topics": [
                           "obsidian",
                           "obsidian-md",
@@ -2996,7 +2996,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T06:55:03.851Z",
+    "last_updated": "2026-11-25T05:23:16.699Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶️ Awesome stuff for Obsidian",
@@ -3008,7 +3008,7 @@
       "open_issues": 71,
       "owner": "kmaasrud",
       "repo": "awesome-obsidian",
-      "stars": 9550,
+      "stars": 9552,
       "topics": [
         "awesome",
         "awesome-list",
